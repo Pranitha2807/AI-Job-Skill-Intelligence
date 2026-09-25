@@ -1,0 +1,4966 @@
+{
+    "Data Analyst": [
+        {
+            "skill": "SQL",
+            "job_postings": 468
+        },
+        {
+            "skill": "Excel",
+            "job_postings": 280
+        },
+        {
+            "skill": "Python",
+            "job_postings": 258
+        },
+        {
+            "skill": "Tableau",
+            "job_postings": 241
+        },
+        {
+            "skill": "Power BI",
+            "job_postings": 221
+        },
+        {
+            "skill": "R",
+            "job_postings": 121
+        },
+        {
+            "skill": "Data Visualization",
+            "job_postings": 91
+        },
+        {
+            "skill": "Data Analysis",
+            "job_postings": 75
+        },
+        {
+            "skill": "Data Modeling",
+            "job_postings": 65
+        },
+        {
+            "skill": "Looker",
+            "job_postings": 51
+        },
+        {
+            "skill": "AWS",
+            "job_postings": 50
+        },
+        {
+            "skill": "ETL",
+            "job_postings": 50
+        },
+        {
+            "skill": "Snowflake",
+            "job_postings": 48
+        },
+        {
+            "skill": "Reporting",
+            "job_postings": 45
+        },
+        {
+            "skill": "SAS",
+            "job_postings": 42
+        }
+    ],
+    "Senior Data Analyst": [
+        {
+            "skill": "SQL",
+            "job_postings": 75
+        },
+        {
+            "skill": "Python",
+            "job_postings": 46
+        },
+        {
+            "skill": "Tableau",
+            "job_postings": 46
+        },
+        {
+            "skill": "Excel",
+            "job_postings": 26
+        },
+        {
+            "skill": "Power BI",
+            "job_postings": 25
+        },
+        {
+            "skill": "Looker",
+            "job_postings": 20
+        },
+        {
+            "skill": "R",
+            "job_postings": 20
+        },
+        {
+            "skill": "SAS",
+            "job_postings": 13
+        },
+        {
+            "skill": "AWS",
+            "job_postings": 11
+        },
+        {
+            "skill": "Azure",
+            "job_postings": 9
+        },
+        {
+            "skill": "ETL",
+            "job_postings": 9
+        },
+        {
+            "skill": "Snowflake",
+            "job_postings": 9
+        },
+        {
+            "skill": "Data Visualization",
+            "job_postings": 8
+        },
+        {
+            "skill": "Oracle",
+            "job_postings": 7
+        },
+        {
+            "skill": "Machine Learning",
+            "job_postings": 6
+        }
+    ],
+    "Data Analyst II": [
+        {
+            "skill": "SQL",
+            "job_postings": 18
+        },
+        {
+            "skill": "Python",
+            "job_postings": 17
+        },
+        {
+            "skill": "Excel",
+            "job_postings": 13
+        },
+        {
+            "skill": "Tableau",
+            "job_postings": 13
+        },
+        {
+            "skill": "Power BI",
+            "job_postings": 12
+        },
+        {
+            "skill": "R",
+            "job_postings": 10
+        },
+        {
+            "skill": "Snowflake",
+            "job_postings": 8
+        },
+        {
+            "skill": "Data Visualization",
+            "job_postings": 6
+        },
+        {
+            "skill": "XML",
+            "job_postings": 4
+        },
+        {
+            "skill": "Dataiku",
+            "job_postings": 4
+        },
+        {
+            "skill": "VBA",
+            "job_postings": 4
+        },
+        {
+            "skill": "SPSS",
+            "job_postings": 4
+        },
+        {
+            "skill": "Data Analysis",
+            "job_postings": 4
+        },
+        {
+            "skill": "Oracle Database",
+            "job_postings": 4
+        },
+        {
+            "skill": "Pig",
+            "job_postings": 4
+        }
+    ],
+    "Business Data Analyst": [
+        {
+            "skill": "SQL",
+            "job_postings": 26
+        },
+        {
+            "skill": "Excel",
+            "job_postings": 16
+        },
+        {
+            "skill": "Python",
+            "job_postings": 14
+        },
+        {
+            "skill": "Tableau",
+            "job_postings": 11
+        },
+        {
+            "skill": "Power BI",
+            "job_postings": 10
+        },
+        {
+            "skill": "R",
+            "job_postings": 8
+        },
+        {
+            "skill": "Data Analysis",
+            "job_postings": 5
+        },
+        {
+            "skill": "Data Modeling",
+            "job_postings": 5
+        },
+        {
+            "skill": "Data Quality",
+            "job_postings": 4
+        },
+        {
+            "skill": "Data Visualization",
+            "job_postings": 4
+        },
+        {
+            "skill": "Data Governance",
+            "job_postings": 3
+        },
+        {
+            "skill": "VBA",
+            "job_postings": 3
+        },
+        {
+            "skill": "Agile",
+            "job_postings": 2
+        },
+        {
+            "skill": "Business Analysis",
+            "job_postings": 2
+        },
+        {
+            "skill": "BI Tools",
+            "job_postings": 2
+        }
+    ],
+    "Junior Data Analyst": [
+        {
+            "skill": "SQL",
+            "job_postings": 20
+        },
+        {
+            "skill": "Excel",
+            "job_postings": 19
+        },
+        {
+            "skill": "Python",
+            "job_postings": 16
+        },
+        {
+            "skill": "Power BI",
+            "job_postings": 16
+        },
+        {
+            "skill": "Tableau",
+            "job_postings": 13
+        },
+        {
+            "skill": "R",
+            "job_postings": 8
+        },
+        {
+            "skill": "JavaScript",
+            "job_postings": 3
+        },
+        {
+            "skill": "Data Cleaning",
+            "job_postings": 3
+        },
+        {
+            "skill": "Jira",
+            "job_postings": 2
+        },
+        {
+            "skill": "Agile",
+            "job_postings": 2
+        },
+        {
+            "skill": "Azure",
+            "job_postings": 2
+        },
+        {
+            "skill": "Data Analysis",
+            "job_postings": 2
+        },
+        {
+            "skill": "AWS",
+            "job_postings": 2
+        },
+        {
+            "skill": "Looker",
+            "job_postings": 2
+        },
+        {
+            "skill": "Statistical Analysis",
+            "job_postings": 2
+        }
+    ],
+    "Data Analyst Intern": [
+        {
+            "skill": "Python",
+            "job_postings": 11
+        },
+        {
+            "skill": "SQL",
+            "job_postings": 10
+        },
+        {
+            "skill": "Excel",
+            "job_postings": 9
+        },
+        {
+            "skill": "Tableau",
+            "job_postings": 7
+        },
+        {
+            "skill": "Power BI",
+            "job_postings": 7
+        },
+        {
+            "skill": "Data Visualization",
+            "job_postings": 6
+        },
+        {
+            "skill": "R",
+            "job_postings": 5
+        },
+        {
+            "skill": "Looker",
+            "job_postings": 4
+        },
+        {
+            "skill": "Data Analysis",
+            "job_postings": 3
+        },
+        {
+            "skill": "Data Cleaning",
+            "job_postings": 3
+        },
+        {
+            "skill": "Reporting",
+            "job_postings": 3
+        },
+        {
+            "skill": "Data Validation",
+            "job_postings": 3
+        },
+        {
+            "skill": "Machine Learning",
+            "job_postings": 3
+        },
+        {
+            "skill": "Data Management",
+            "job_postings": 2
+        },
+        {
+            "skill": "Dashboard Development",
+            "job_postings": 2
+        }
+    ],
+    "Data analyst": [
+        {
+            "skill": "SQL",
+            "job_postings": 468
+        },
+        {
+            "skill": "Excel",
+            "job_postings": 280
+        },
+        {
+            "skill": "Python",
+            "job_postings": 258
+        },
+        {
+            "skill": "Tableau",
+            "job_postings": 241
+        },
+        {
+            "skill": "Power BI",
+            "job_postings": 221
+        },
+        {
+            "skill": "R",
+            "job_postings": 121
+        },
+        {
+            "skill": "Data Visualization",
+            "job_postings": 91
+        },
+        {
+            "skill": "Data Analysis",
+            "job_postings": 75
+        },
+        {
+            "skill": "Data Modeling",
+            "job_postings": 65
+        },
+        {
+            "skill": "Looker",
+            "job_postings": 51
+        },
+        {
+            "skill": "AWS",
+            "job_postings": 50
+        },
+        {
+            "skill": "ETL",
+            "job_postings": 50
+        },
+        {
+            "skill": "Snowflake",
+            "job_postings": 48
+        },
+        {
+            "skill": "Reporting",
+            "job_postings": 45
+        },
+        {
+            "skill": "SAS",
+            "job_postings": 42
+        }
+    ],
+    "DATA ANALYST": [
+        {
+            "skill": "SQL",
+            "job_postings": 468
+        },
+        {
+            "skill": "Excel",
+            "job_postings": 280
+        },
+        {
+            "skill": "Python",
+            "job_postings": 258
+        },
+        {
+            "skill": "Tableau",
+            "job_postings": 241
+        },
+        {
+            "skill": "Power BI",
+            "job_postings": 221
+        },
+        {
+            "skill": "R",
+            "job_postings": 121
+        },
+        {
+            "skill": "Data Visualization",
+            "job_postings": 91
+        },
+        {
+            "skill": "Data Analysis",
+            "job_postings": 75
+        },
+        {
+            "skill": "Data Modeling",
+            "job_postings": 65
+        },
+        {
+            "skill": "Looker",
+            "job_postings": 51
+        },
+        {
+            "skill": "AWS",
+            "job_postings": 50
+        },
+        {
+            "skill": "ETL",
+            "job_postings": 50
+        },
+        {
+            "skill": "Snowflake",
+            "job_postings": 48
+        },
+        {
+            "skill": "Reporting",
+            "job_postings": 45
+        },
+        {
+            "skill": "SAS",
+            "job_postings": 42
+        }
+    ],
+    "Data Analyst I": [
+        {
+            "skill": "SQL",
+            "job_postings": 7
+        },
+        {
+            "skill": "Power BI",
+            "job_postings": 6
+        },
+        {
+            "skill": "Tableau",
+            "job_postings": 4
+        },
+        {
+            "skill": "Excel",
+            "job_postings": 4
+        },
+        {
+            "skill": "Data Visualization",
+            "job_postings": 3
+        },
+        {
+            "skill": "Data Analysis",
+            "job_postings": 2
+        },
+        {
+            "skill": "Python",
+            "job_postings": 2
+        },
+        {
+            "skill": "Amazon QuickSight",
+            "job_postings": 1
+        },
+        {
+            "skill": "A/B Testing",
+            "job_postings": 1
+        },
+        {
+            "skill": "Data Management",
+            "job_postings": 1
+        },
+        {
+            "skill": "Data Mining",
+            "job_postings": 1
+        },
+        {
+            "skill": "Data Processing",
+            "job_postings": 1
+        },
+        {
+            "skill": "AWS",
+            "job_postings": 1
+        },
+        {
+            "skill": "Amplitude",
+            "job_postings": 1
+        },
+        {
+            "skill": "Calero",
+            "job_postings": 1
+        }
+    ],
+    "Marketing Data Analyst": [
+        {
+            "skill": "SQL",
+            "job_postings": 8
+        },
+        {
+            "skill": "Python",
+            "job_postings": 5
+        },
+        {
+            "skill": "Tableau",
+            "job_postings": 5
+        },
+        {
+            "skill": "Power BI",
+            "job_postings": 4
+        },
+        {
+            "skill": "R",
+            "job_postings": 3
+        },
+        {
+            "skill": "Excel",
+            "job_postings": 3
+        },
+        {
+            "skill": "PostgreSQL",
+            "job_postings": 2
+        },
+        {
+            "skill": "CRM",
+            "job_postings": 2
+        },
+        {
+            "skill": "Jira",
+            "job_postings": 2
+        },
+        {
+            "skill": "ETL",
+            "job_postings": 2
+        },
+        {
+            "skill": "Confluence",
+            "job_postings": 2
+        },
+        {
+            "skill": "Data Management",
+            "job_postings": 1
+        },
+        {
+            "skill": "DOMO",
+            "job_postings": 1
+        },
+        {
+            "skill": "Aurora DB",
+            "job_postings": 1
+        },
+        {
+            "skill": "Data Mining",
+            "job_postings": 1
+        }
+    ],
+    "Remote Data Analyst Jobs": [
+        {
+            "skill": "SQL",
+            "job_postings": 8
+        },
+        {
+            "skill": "Python",
+            "job_postings": 8
+        },
+        {
+            "skill": "R",
+            "job_postings": 6
+        },
+        {
+            "skill": "Tableau",
+            "job_postings": 6
+        },
+        {
+            "skill": "Spotfire",
+            "job_postings": 4
+        },
+        {
+            "skill": "Qlikview",
+            "job_postings": 3
+        },
+        {
+            "skill": "Amplitude",
+            "job_postings": 2
+        },
+        {
+            "skill": "Looker",
+            "job_postings": 2
+        },
+        {
+            "skill": "Mixpanel",
+            "job_postings": 2
+        },
+        {
+            "skill": "PowerBI",
+            "job_postings": 2
+        },
+        {
+            "skill": "Power BI",
+            "job_postings": 2
+        },
+        {
+            "skill": "Statistics",
+            "job_postings": 2
+        },
+        {
+            "skill": "Domo",
+            "job_postings": 2
+        },
+        {
+            "skill": "Google Analytics",
+            "job_postings": 2
+        },
+        {
+            "skill": "A/B Testing",
+            "job_postings": 1
+        }
+    ],
+    "Senior Performance Marketing (Data Analyst)": [
+        {
+            "skill": "DB2",
+            "job_postings": 2
+        },
+        {
+            "skill": "Data Visualization",
+            "job_postings": 2
+        },
+        {
+            "skill": "VBA",
+            "job_postings": 2
+        },
+        {
+            "skill": "Economic Modeling",
+            "job_postings": 2
+        },
+        {
+            "skill": "Excel",
+            "job_postings": 2
+        },
+        {
+            "skill": "Exploratory Data Analysis",
+            "job_postings": 2
+        },
+        {
+            "skill": "Hadoop",
+            "job_postings": 2
+        },
+        {
+            "skill": "Google Analytics",
+            "job_postings": 2
+        },
+        {
+            "skill": "Hypothesis Testing",
+            "job_postings": 2
+        },
+        {
+            "skill": "Hive",
+            "job_postings": 2
+        },
+        {
+            "skill": "NoSQL",
+            "job_postings": 2
+        },
+        {
+            "skill": "Oracle",
+            "job_postings": 2
+        },
+        {
+            "skill": "IDMS",
+            "job_postings": 2
+        },
+        {
+            "skill": "Impala",
+            "job_postings": 2
+        },
+        {
+            "skill": "PL/SQL",
+            "job_postings": 2
+        }
+    ],
+    "Sr. Data Analyst": [
+        {
+            "skill": "SQL",
+            "job_postings": 7
+        },
+        {
+            "skill": "Tableau",
+            "job_postings": 3
+        },
+        {
+            "skill": "Power BI",
+            "job_postings": 2
+        },
+        {
+            "skill": "Data Analysis",
+            "job_postings": 2
+        },
+        {
+            "skill": "DB2",
+            "job_postings": 2
+        },
+        {
+            "skill": "Snowflake",
+            "job_postings": 2
+        },
+        {
+            "skill": "Python",
+            "job_postings": 2
+        },
+        {
+            "skill": "Data Integrity",
+            "job_postings": 1
+        },
+        {
+            "skill": "Data Cleansing",
+            "job_postings": 1
+        },
+        {
+            "skill": "Collibra",
+            "job_postings": 1
+        },
+        {
+            "skill": "AWS",
+            "job_postings": 1
+        },
+        {
+            "skill": "COBOL",
+            "job_postings": 1
+        },
+        {
+            "skill": "Azure SQL",
+            "job_postings": 1
+        },
+        {
+            "skill": "Data Quality Control",
+            "job_postings": 1
+        },
+        {
+            "skill": "Data Normalization",
+            "job_postings": 1
+        }
+    ],
+    "Data Analyst (Remote)": [
+        {
+            "skill": "SQL",
+            "job_postings": 6
+        },
+        {
+            "skill": "Power BI",
+            "job_postings": 4
+        },
+        {
+            "skill": "Tableau",
+            "job_postings": 3
+        },
+        {
+            "skill": "Python",
+            "job_postings": 2
+        },
+        {
+            "skill": "R",
+            "job_postings": 2
+        },
+        {
+            "skill": "AWS",
+            "job_postings": 1
+        },
+        {
+            "skill": "ARIMA",
+            "job_postings": 1
+        },
+        {
+            "skill": "Data Cleaning",
+            "job_postings": 1
+        },
+        {
+            "skill": "Data Ingestion",
+            "job_postings": 1
+        },
+        {
+            "skill": "Data Management",
+            "job_postings": 1
+        },
+        {
+            "skill": "Anomaly Detection",
+            "job_postings": 1
+        },
+        {
+            "skill": "BI Tools",
+            "job_postings": 1
+        },
+        {
+            "skill": "Big Data",
+            "job_postings": 1
+        },
+        {
+            "skill": "Clustering",
+            "job_postings": 1
+        },
+        {
+            "skill": "Data Analysis",
+            "job_postings": 1
+        }
+    ],
+    "Healthcare Data Analyst": [
+        {
+            "skill": "SQL",
+            "job_postings": 9
+        },
+        {
+            "skill": "Excel",
+            "job_postings": 4
+        },
+        {
+            "skill": "ETL",
+            "job_postings": 2
+        },
+        {
+            "skill": "Data Profiling",
+            "job_postings": 2
+        },
+        {
+            "skill": "SQL Server",
+            "job_postings": 2
+        },
+        {
+            "skill": "Snowflake",
+            "job_postings": 2
+        },
+        {
+            "skill": "SSIS",
+            "job_postings": 2
+        },
+        {
+            "skill": "Data Mapping",
+            "job_postings": 2
+        },
+        {
+            "skill": "DAD",
+            "job_postings": 1
+        },
+        {
+            "skill": "Advanced Database Concepts",
+            "job_postings": 1
+        },
+        {
+            "skill": "Crystal",
+            "job_postings": 1
+        },
+        {
+            "skill": "Confluence",
+            "job_postings": 1
+        },
+        {
+            "skill": "Amisys",
+            "job_postings": 1
+        },
+        {
+            "skill": "Data Warehousing",
+            "job_postings": 1
+        },
+        {
+            "skill": "Data Modeling",
+            "job_postings": 1
+        }
+    ],
+    "Data Analyst - Commercial Marketing Data & Analytics": [
+        {
+            "skill": "Azure Data Explorer",
+            "job_postings": 3
+        },
+        {
+            "skill": "Azure Data Factory",
+            "job_postings": 3
+        },
+        {
+            "skill": "Azure Synapse",
+            "job_postings": 3
+        },
+        {
+            "skill": "DAX",
+            "job_postings": 3
+        },
+        {
+            "skill": "R",
+            "job_postings": 3
+        },
+        {
+            "skill": "Power BI",
+            "job_postings": 3
+        },
+        {
+            "skill": "Python",
+            "job_postings": 3
+        },
+        {
+            "skill": "Fabric",
+            "job_postings": 3
+        },
+        {
+            "skill": "Forecasting",
+            "job_postings": 3
+        },
+        {
+            "skill": "Spark",
+            "job_postings": 3
+        },
+        {
+            "skill": "Regression Modeling",
+            "job_postings": 3
+        },
+        {
+            "skill": "SQL",
+            "job_postings": 3
+        },
+        {
+            "skill": "UI/UX Design",
+            "job_postings": 2
+        },
+        {
+            "skill": "Time-Series Analysis",
+            "job_postings": 2
+        },
+        {
+            "skill": "Data Visualization",
+            "job_postings": 2
+        }
+    ],
+    "Product Data Analyst": [
+        {
+            "skill": "SQL",
+            "job_postings": 5
+        },
+        {
+            "skill": "Python",
+            "job_postings": 4
+        },
+        {
+            "skill": "Tableau",
+            "job_postings": 3
+        },
+        {
+            "skill": "Data Analysis",
+            "job_postings": 2
+        },
+        {
+            "skill": "R",
+            "job_postings": 2
+        },
+        {
+            "skill": "Cluster Analysis",
+            "job_postings": 1
+        },
+        {
+            "skill": "BigQuery",
+            "job_postings": 1
+        },
+        {
+            "skill": "BI Tools",
+            "job_postings": 1
+        },
+        {
+            "skill": "Airflow",
+            "job_postings": 1
+        },
+        {
+            "skill": "A/B Testing",
+            "job_postings": 1
+        },
+        {
+            "skill": "DOMO",
+            "job_postings": 1
+        },
+        {
+            "skill": "Dashboarding",
+            "job_postings": 1
+        },
+        {
+            "skill": "Data Instrumentation",
+            "job_postings": 1
+        },
+        {
+            "skill": "Event Tracking",
+            "job_postings": 1
+        },
+        {
+            "skill": "Excel",
+            "job_postings": 1
+        }
+    ],
+    "Data Analyst III": [
+        {
+            "skill": "Tableau",
+            "job_postings": 4
+        },
+        {
+            "skill": "SQL",
+            "job_postings": 4
+        },
+        {
+            "skill": "Power BI",
+            "job_postings": 3
+        },
+        {
+            "skill": "Excel",
+            "job_postings": 3
+        },
+        {
+            "skill": "Looker",
+            "job_postings": 2
+        },
+        {
+            "skill": "Python",
+            "job_postings": 2
+        },
+        {
+            "skill": "R",
+            "job_postings": 2
+        },
+        {
+            "skill": "Spark",
+            "job_postings": 2
+        },
+        {
+            "skill": "Scala",
+            "job_postings": 2
+        },
+        {
+            "skill": "NoSQL",
+            "job_postings": 2
+        },
+        {
+            "skill": "Data Integration",
+            "job_postings": 1
+        },
+        {
+            "skill": "Apache Mahout",
+            "job_postings": 1
+        },
+        {
+            "skill": "Access",
+            "job_postings": 1
+        },
+        {
+            "skill": "Matplotlib",
+            "job_postings": 1
+        },
+        {
+            "skill": "GCP",
+            "job_postings": 1
+        }
+    ],
+    "Data Engineer/Data Analyst": [
+        {
+            "skill": "SQL",
+            "job_postings": 3
+        },
+        {
+            "skill": "AWS Glue",
+            "job_postings": 2
+        },
+        {
+            "skill": "AWS QuickSight",
+            "job_postings": 2
+        },
+        {
+            "skill": "Python",
+            "job_postings": 2
+        },
+        {
+            "skill": "Azure",
+            "job_postings": 2
+        },
+        {
+            "skill": "AWS",
+            "job_postings": 2
+        },
+        {
+            "skill": "Analytics",
+            "job_postings": 1
+        },
+        {
+            "skill": "API Integration",
+            "job_postings": 1
+        },
+        {
+            "skill": "AI",
+            "job_postings": 1
+        },
+        {
+            "skill": "Azure Data Factory",
+            "job_postings": 1
+        },
+        {
+            "skill": "Boomi",
+            "job_postings": 1
+        },
+        {
+            "skill": "Data Modeling",
+            "job_postings": 1
+        },
+        {
+            "skill": "Azure Data Lake",
+            "job_postings": 1
+        },
+        {
+            "skill": "Azure Synapse",
+            "job_postings": 1
+        },
+        {
+            "skill": "Data Visualization",
+            "job_postings": 1
+        }
+    ],
+    "Sr Data Analyst": [
+        {
+            "skill": "Excel",
+            "job_postings": 4
+        },
+        {
+            "skill": "SQL",
+            "job_postings": 4
+        },
+        {
+            "skill": "Python",
+            "job_postings": 3
+        },
+        {
+            "skill": "Tableau",
+            "job_postings": 3
+        },
+        {
+            "skill": "Power BI",
+            "job_postings": 2
+        },
+        {
+            "skill": "R",
+            "job_postings": 2
+        },
+        {
+            "skill": "Azure",
+            "job_postings": 1
+        },
+        {
+            "skill": "A/B Testing",
+            "job_postings": 1
+        },
+        {
+            "skill": "HTML",
+            "job_postings": 1
+        },
+        {
+            "skill": "IBM Cognos",
+            "job_postings": 1
+        },
+        {
+            "skill": "Java",
+            "job_postings": 1
+        },
+        {
+            "skill": "AWS",
+            "job_postings": 1
+        },
+        {
+            "skill": "Bash",
+            "job_postings": 1
+        },
+        {
+            "skill": "CSS",
+            "job_postings": 1
+        },
+        {
+            "skill": "Databricks",
+            "job_postings": 1
+        }
+    ],
+    "Data Analyst Internship": [
+        {
+            "skill": "Data Analysis",
+            "job_postings": 4
+        },
+        {
+            "skill": "R",
+            "job_postings": 2
+        },
+        {
+            "skill": "Statistical Modeling",
+            "job_postings": 2
+        },
+        {
+            "skill": "Python",
+            "job_postings": 2
+        },
+        {
+            "skill": "Forecasting",
+            "job_postings": 2
+        },
+        {
+            "skill": "Machine Learning",
+            "job_postings": 2
+        },
+        {
+            "skill": "SQL",
+            "job_postings": 2
+        },
+        {
+            "skill": "Bullhorn",
+            "job_postings": 1
+        },
+        {
+            "skill": "Amazon Redshift",
+            "job_postings": 1
+        },
+        {
+            "skill": "Ad Hoc Reporting",
+            "job_postings": 1
+        },
+        {
+            "skill": "CRM Systems",
+            "job_postings": 1
+        },
+        {
+            "skill": "Data Mapping",
+            "job_postings": 1
+        },
+        {
+            "skill": "Data Organization",
+            "job_postings": 1
+        },
+        {
+            "skill": "Dashboard Design",
+            "job_postings": 1
+        },
+        {
+            "skill": "Cloud Technologies",
+            "job_postings": 1
+        }
+    ],
+    "Business Analyst /Data Analyst - AI/ML": [
+        {
+            "skill": "ACH",
+            "job_postings": 1
+        },
+        {
+            "skill": "AML",
+            "job_postings": 1
+        },
+        {
+            "skill": "AML Detection Algorithms",
+            "job_postings": 1
+        },
+        {
+            "skill": "Actimize AML",
+            "job_postings": 1
+        },
+        {
+            "skill": "Actimize SAM",
+            "job_postings": 1
+        },
+        {
+            "skill": "Agile Methodologies",
+            "job_postings": 1
+        },
+        {
+            "skill": "BRD creation",
+            "job_postings": 1
+        },
+        {
+            "skill": "BSA",
+            "job_postings": 1
+        },
+        {
+            "skill": "Basel III",
+            "job_postings": 1
+        },
+        {
+            "skill": "Behavioral Modeling",
+            "job_postings": 1
+        },
+        {
+            "skill": "Compliance Reporting",
+            "job_postings": 1
+        },
+        {
+            "skill": "Data Analysis",
+            "job_postings": 1
+        },
+        {
+            "skill": "Data Governance",
+            "job_postings": 1
+        },
+        {
+            "skill": "Data Integration",
+            "job_postings": 1
+        },
+        {
+            "skill": "Data Lineage",
+            "job_postings": 1
+        }
+    ],
+    "Data Analyst (f/m/d)": [
+        {
+            "skill": "AWS",
+            "job_postings": 1
+        },
+        {
+            "skill": "Advanced SQL",
+            "job_postings": 1
+        },
+        {
+            "skill": "Analytical Data Modeling",
+            "job_postings": 1
+        },
+        {
+            "skill": "Analytical Modeling",
+            "job_postings": 1
+        },
+        {
+            "skill": "Anomaly Detection",
+            "job_postings": 1
+        },
+        {
+            "skill": "Asana",
+            "job_postings": 1
+        },
+        {
+            "skill": "CDP Systems",
+            "job_postings": 1
+        },
+        {
+            "skill": "CRM Systems",
+            "job_postings": 1
+        },
+        {
+            "skill": "Dashboards",
+            "job_postings": 1
+        },
+        {
+            "skill": "Data Governance",
+            "job_postings": 1
+        },
+        {
+            "skill": "Data Preparation",
+            "job_postings": 1
+        },
+        {
+            "skill": "Data Privacy",
+            "job_postings": 1
+        },
+        {
+            "skill": "Data Product Development",
+            "job_postings": 1
+        },
+        {
+            "skill": "Data Quality",
+            "job_postings": 1
+        },
+        {
+            "skill": "Data Visualization",
+            "job_postings": 1
+        }
+    ],
+    "Staff Data Analyst": [
+        {
+            "skill": "Python",
+            "job_postings": 2
+        },
+        {
+            "skill": "SAS",
+            "job_postings": 2
+        },
+        {
+            "skill": "R",
+            "job_postings": 2
+        },
+        {
+            "skill": "Amazon Redshift",
+            "job_postings": 1
+        },
+        {
+            "skill": "AppScript",
+            "job_postings": 1
+        },
+        {
+            "skill": "Big Data",
+            "job_postings": 1
+        },
+        {
+            "skill": "Data Manipulation",
+            "job_postings": 1
+        },
+        {
+            "skill": "Business Intelligence (BI)",
+            "job_postings": 1
+        },
+        {
+            "skill": "Dashboards",
+            "job_postings": 1
+        },
+        {
+            "skill": "Data Lineage",
+            "job_postings": 1
+        },
+        {
+            "skill": "Data Visualization",
+            "job_postings": 1
+        },
+        {
+            "skill": "Data Warehousing",
+            "job_postings": 1
+        },
+        {
+            "skill": "Database Management",
+            "job_postings": 1
+        },
+        {
+            "skill": "Databricks",
+            "job_postings": 1
+        },
+        {
+            "skill": "Excel",
+            "job_postings": 1
+        }
+    ],
+    "Senior data analyst": [
+        {
+            "skill": "SQL",
+            "job_postings": 75
+        },
+        {
+            "skill": "Python",
+            "job_postings": 46
+        },
+        {
+            "skill": "Tableau",
+            "job_postings": 46
+        },
+        {
+            "skill": "Excel",
+            "job_postings": 26
+        },
+        {
+            "skill": "Power BI",
+            "job_postings": 25
+        },
+        {
+            "skill": "Looker",
+            "job_postings": 20
+        },
+        {
+            "skill": "R",
+            "job_postings": 20
+        },
+        {
+            "skill": "SAS",
+            "job_postings": 13
+        },
+        {
+            "skill": "AWS",
+            "job_postings": 11
+        },
+        {
+            "skill": "Azure",
+            "job_postings": 9
+        },
+        {
+            "skill": "ETL",
+            "job_postings": 9
+        },
+        {
+            "skill": "Snowflake",
+            "job_postings": 9
+        },
+        {
+            "skill": "Data Visualization",
+            "job_postings": 8
+        },
+        {
+            "skill": "Oracle",
+            "job_postings": 7
+        },
+        {
+            "skill": "Machine Learning",
+            "job_postings": 6
+        }
+    ],
+    "Data Analyst, Global Partnerships & Content": [
+        {
+            "skill": "SQL",
+            "job_postings": 4
+        },
+        {
+            "skill": "Data Pipelines",
+            "job_postings": 3
+        },
+        {
+            "skill": "MySQL",
+            "job_postings": 3
+        },
+        {
+            "skill": "Python",
+            "job_postings": 3
+        },
+        {
+            "skill": "R",
+            "job_postings": 3
+        },
+        {
+            "skill": "Oracle",
+            "job_postings": 3
+        },
+        {
+            "skill": "Hive",
+            "job_postings": 3
+        },
+        {
+            "skill": "Vertica",
+            "job_postings": 3
+        },
+        {
+            "skill": "Difference-in-Differences",
+            "job_postings": 2
+        },
+        {
+            "skill": "A/B Testing",
+            "job_postings": 1
+        },
+        {
+            "skill": "Dashboarding",
+            "job_postings": 1
+        },
+        {
+            "skill": "Data Analysis",
+            "job_postings": 1
+        },
+        {
+            "skill": "Matching Models",
+            "job_postings": 1
+        },
+        {
+            "skill": "Matching Model",
+            "job_postings": 1
+        },
+        {
+            "skill": "Data Pipelining",
+            "job_postings": 1
+        }
+    ],
+    "Data Analyst - Merchandising (Remote)": [
+        {
+            "skill": "Excel",
+            "job_postings": 3
+        },
+        {
+            "skill": "Hypothesis Testing",
+            "job_postings": 3
+        },
+        {
+            "skill": "Machine Learning",
+            "job_postings": 3
+        },
+        {
+            "skill": "Predictive Modeling",
+            "job_postings": 3
+        },
+        {
+            "skill": "SQL",
+            "job_postings": 3
+        },
+        {
+            "skill": "R",
+            "job_postings": 3
+        },
+        {
+            "skill": "SAS",
+            "job_postings": 3
+        },
+        {
+            "skill": "SPSS",
+            "job_postings": 3
+        },
+        {
+            "skill": "Statistics",
+            "job_postings": 3
+        },
+        {
+            "skill": "Salesforce",
+            "job_postings": 3
+        },
+        {
+            "skill": "Tableau",
+            "job_postings": 3
+        },
+        {
+            "skill": "CRM",
+            "job_postings": 2
+        }
+    ],
+    "Data Analyst, Data Intelligence": [
+        {
+            "skill": "Agile",
+            "job_postings": 2
+        },
+        {
+            "skill": "BigQuery",
+            "job_postings": 2
+        },
+        {
+            "skill": "Data Analysis",
+            "job_postings": 2
+        },
+        {
+            "skill": "Data Modeling",
+            "job_postings": 2
+        },
+        {
+            "skill": "Git",
+            "job_postings": 2
+        },
+        {
+            "skill": "Data Visualization",
+            "job_postings": 2
+        },
+        {
+            "skill": "Palantir",
+            "job_postings": 2
+        },
+        {
+            "skill": "Jira",
+            "job_postings": 2
+        },
+        {
+            "skill": "SQL",
+            "job_postings": 2
+        },
+        {
+            "skill": "Requirements Gathering",
+            "job_postings": 2
+        },
+        {
+            "skill": "Python",
+            "job_postings": 2
+        },
+        {
+            "skill": "PowerBI",
+            "job_postings": 2
+        },
+        {
+            "skill": "Tableau",
+            "job_postings": 2
+        },
+        {
+            "skill": "ServiceNow",
+            "job_postings": 2
+        },
+        {
+            "skill": "dbt",
+            "job_postings": 2
+        }
+    ],
+    "Data Analyst (Product)": [
+        {
+            "skill": "SQL",
+            "job_postings": 5
+        },
+        {
+            "skill": "Statistics",
+            "job_postings": 5
+        },
+        {
+            "skill": "Mathematics",
+            "job_postings": 5
+        },
+        {
+            "skill": "Python",
+            "job_postings": 5
+        },
+        {
+            "skill": "Data Visualization",
+            "job_postings": 4
+        },
+        {
+            "skill": "Metrics Design",
+            "job_postings": 3
+        },
+        {
+            "skill": "Data Modeling",
+            "job_postings": 2
+        },
+        {
+            "skill": "Databases",
+            "job_postings": 2
+        },
+        {
+            "skill": "Dashboarding",
+            "job_postings": 1
+        },
+        {
+            "skill": "Data Aggregation",
+            "job_postings": 1
+        },
+        {
+            "skill": "Data Querying",
+            "job_postings": 1
+        }
+    ],
+    "Senior Data Analyst - Remote": [
+        {
+            "skill": "SQL",
+            "job_postings": 3
+        },
+        {
+            "skill": "Gradient Boosting",
+            "job_postings": 2
+        },
+        {
+            "skill": "Excel",
+            "job_postings": 2
+        },
+        {
+            "skill": "R",
+            "job_postings": 2
+        },
+        {
+            "skill": "Statistical Analysis",
+            "job_postings": 2
+        },
+        {
+            "skill": "Machine Learning",
+            "job_postings": 2
+        },
+        {
+            "skill": "SPSS",
+            "job_postings": 2
+        },
+        {
+            "skill": "Random Forest",
+            "job_postings": 2
+        },
+        {
+            "skill": "SAS",
+            "job_postings": 2
+        },
+        {
+            "skill": "Stata",
+            "job_postings": 2
+        },
+        {
+            "skill": "Git",
+            "job_postings": 1
+        },
+        {
+            "skill": "Airflow",
+            "job_postings": 1
+        },
+        {
+            "skill": "Financial Reporting",
+            "job_postings": 1
+        },
+        {
+            "skill": "Data Mining",
+            "job_postings": 1
+        },
+        {
+            "skill": "Database Creation",
+            "job_postings": 1
+        }
+    ],
+    "Quality Data Analyst": [
+        {
+            "skill": "SQL",
+            "job_postings": 3
+        },
+        {
+            "skill": "R",
+            "job_postings": 2
+        },
+        {
+            "skill": "Excel",
+            "job_postings": 2
+        },
+        {
+            "skill": "Python",
+            "job_postings": 2
+        },
+        {
+            "skill": "SAS",
+            "job_postings": 2
+        },
+        {
+            "skill": "Tableau",
+            "job_postings": 2
+        },
+        {
+            "skill": "Git",
+            "job_postings": 1
+        },
+        {
+            "skill": "Confluence",
+            "job_postings": 1
+        },
+        {
+            "skill": "DAX",
+            "job_postings": 1
+        },
+        {
+            "skill": "Alteryx",
+            "job_postings": 1
+        },
+        {
+            "skill": "Airflow",
+            "job_postings": 1
+        },
+        {
+            "skill": "MicroStrategy",
+            "job_postings": 1
+        },
+        {
+            "skill": "Looker",
+            "job_postings": 1
+        },
+        {
+            "skill": "Jira",
+            "job_postings": 1
+        },
+        {
+            "skill": "JavaScript",
+            "job_postings": 1
+        }
+    ],
+    "eCommerce Data Analyst": [
+        {
+            "skill": "SQL",
+            "job_postings": 2
+        },
+        {
+            "skill": "A/B Testing",
+            "job_postings": 1
+        },
+        {
+            "skill": "AI-assisted Analytics",
+            "job_postings": 1
+        },
+        {
+            "skill": "Anomaly Detection",
+            "job_postings": 1
+        },
+        {
+            "skill": "Consent Management",
+            "job_postings": 1
+        },
+        {
+            "skill": "Cloud Data Warehousing",
+            "job_postings": 1
+        },
+        {
+            "skill": "Customer Lifecycle Measurement",
+            "job_postings": 1
+        },
+        {
+            "skill": "Dashboards",
+            "job_postings": 1
+        },
+        {
+            "skill": "Data Contracts",
+            "job_postings": 1
+        },
+        {
+            "skill": "Customer Data Platform (CDP)",
+            "job_postings": 1
+        },
+        {
+            "skill": "Data Visualization",
+            "job_postings": 1
+        },
+        {
+            "skill": "Digital Marketing Metrics",
+            "job_postings": 1
+        },
+        {
+            "skill": "Digital Product Analytics",
+            "job_postings": 1
+        },
+        {
+            "skill": "E-commerce Analytics",
+            "job_postings": 1
+        },
+        {
+            "skill": "E-commerce KPIs",
+            "job_postings": 1
+        }
+    ],
+    "Data Visualization Analyst": [
+        {
+            "skill": "API Integration",
+            "job_postings": 1
+        },
+        {
+            "skill": "Adobe Illustrator",
+            "job_postings": 1
+        },
+        {
+            "skill": "Analytics",
+            "job_postings": 1
+        },
+        {
+            "skill": "Business Intelligence",
+            "job_postings": 1
+        },
+        {
+            "skill": "D3.js",
+            "job_postings": 1
+        },
+        {
+            "skill": "Dashboard Development",
+            "job_postings": 1
+        },
+        {
+            "skill": "Data Ingestion",
+            "job_postings": 1
+        },
+        {
+            "skill": "Data Pipelines",
+            "job_postings": 1
+        },
+        {
+            "skill": "Data Visualization",
+            "job_postings": 1
+        },
+        {
+            "skill": "Data Wrangling",
+            "job_postings": 1
+        },
+        {
+            "skill": "ETL",
+            "job_postings": 1
+        },
+        {
+            "skill": "Exploratory Data Analysis",
+            "job_postings": 1
+        },
+        {
+            "skill": "Figma",
+            "job_postings": 1
+        },
+        {
+            "skill": "Forecasting",
+            "job_postings": 1
+        },
+        {
+            "skill": "Geospatial Analysis",
+            "job_postings": 1
+        }
+    ],
+    "Data Product Analyst": [
+        {
+            "skill": "AI Validation",
+            "job_postings": 1
+        },
+        {
+            "skill": "AI/ML",
+            "job_postings": 1
+        },
+        {
+            "skill": "Ad-hoc Analysis",
+            "job_postings": 1
+        },
+        {
+            "skill": "Agile",
+            "job_postings": 1
+        },
+        {
+            "skill": "Cloud Data Ecosystems",
+            "job_postings": 1
+        },
+        {
+            "skill": "Data Cataloging",
+            "job_postings": 1
+        },
+        {
+            "skill": "Data Engineering",
+            "job_postings": 1
+        },
+        {
+            "skill": "Data Entitlements",
+            "job_postings": 1
+        },
+        {
+            "skill": "Data Governance",
+            "job_postings": 1
+        },
+        {
+            "skill": "Data Governance Workflows",
+            "job_postings": 1
+        },
+        {
+            "skill": "Data Lineage",
+            "job_postings": 1
+        },
+        {
+            "skill": "Data Onboarding",
+            "job_postings": 1
+        },
+        {
+            "skill": "Data Pipelines",
+            "job_postings": 1
+        },
+        {
+            "skill": "Data Products",
+            "job_postings": 1
+        },
+        {
+            "skill": "Data Quality",
+            "job_postings": 1
+        }
+    ],
+    "Big Data Analyst": [
+        {
+            "skill": "SQL",
+            "job_postings": 2
+        },
+        {
+            "skill": "AWS DynamoDB",
+            "job_postings": 1
+        },
+        {
+            "skill": "AWS",
+            "job_postings": 1
+        },
+        {
+            "skill": "AWS Lambda",
+            "job_postings": 1
+        },
+        {
+            "skill": "AWS RDS",
+            "job_postings": 1
+        },
+        {
+            "skill": "AWS S3",
+            "job_postings": 1
+        },
+        {
+            "skill": "AWS Glue",
+            "job_postings": 1
+        },
+        {
+            "skill": "Algorithms",
+            "job_postings": 1
+        },
+        {
+            "skill": "Amazon Redshift",
+            "job_postings": 1
+        },
+        {
+            "skill": "Automated Integration Tests",
+            "job_postings": 1
+        },
+        {
+            "skill": "Big Data",
+            "job_postings": 1
+        },
+        {
+            "skill": "Business Intelligence",
+            "job_postings": 1
+        },
+        {
+            "skill": "Cloud Technologies",
+            "job_postings": 1
+        },
+        {
+            "skill": "Continuous Integration",
+            "job_postings": 1
+        },
+        {
+            "skill": "Agile",
+            "job_postings": 1
+        }
+    ],
+    "Lead Data Analyst (Power BI,SQL)": [
+        {
+            "skill": "A/B Testing",
+            "job_postings": 1
+        },
+        {
+            "skill": "Adobe Analytics",
+            "job_postings": 1
+        },
+        {
+            "skill": "Calculus",
+            "job_postings": 1
+        },
+        {
+            "skill": "Dashboarding",
+            "job_postings": 1
+        },
+        {
+            "skill": "Data Lineage",
+            "job_postings": 1
+        },
+        {
+            "skill": "Data Profiling",
+            "job_postings": 1
+        },
+        {
+            "skill": "Data Wrangling",
+            "job_postings": 1
+        },
+        {
+            "skill": "Descriptive Statistics",
+            "job_postings": 1
+        },
+        {
+            "skill": "Domo",
+            "job_postings": 1
+        },
+        {
+            "skill": "Excel",
+            "job_postings": 1
+        },
+        {
+            "skill": "Experimental Design",
+            "job_postings": 1
+        },
+        {
+            "skill": "Forecasting Models",
+            "job_postings": 1
+        },
+        {
+            "skill": "Google Analytics",
+            "job_postings": 1
+        },
+        {
+            "skill": "Hadoop",
+            "job_postings": 1
+        },
+        {
+            "skill": "Hive",
+            "job_postings": 1
+        }
+    ],
+    "Data Analyst, Supply Chain": [
+        {
+            "skill": "Excel",
+            "job_postings": 2
+        },
+        {
+            "skill": "Python",
+            "job_postings": 2
+        },
+        {
+            "skill": "SQL",
+            "job_postings": 2
+        },
+        {
+            "skill": "Tableau",
+            "job_postings": 2
+        },
+        {
+            "skill": "Power BI",
+            "job_postings": 2
+        },
+        {
+            "skill": "Data preparation",
+            "job_postings": 1
+        },
+        {
+            "skill": "Data governance",
+            "job_postings": 1
+        },
+        {
+            "skill": "Data integration",
+            "job_postings": 1
+        },
+        {
+            "skill": "Data transformation",
+            "job_postings": 1
+        },
+        {
+            "skill": "Data architecture",
+            "job_postings": 1
+        },
+        {
+            "skill": "Frontend Development",
+            "job_postings": 1
+        },
+        {
+            "skill": "ERP",
+            "job_postings": 1
+        },
+        {
+            "skill": "Database Design",
+            "job_postings": 1
+        },
+        {
+            "skill": "Data visualization",
+            "job_postings": 1
+        },
+        {
+            "skill": "Object-Oriented Programming",
+            "job_postings": 1
+        }
+    ],
+    "Data Analyst - Junior": [
+        {
+            "skill": "AWS",
+            "job_postings": 1
+        },
+        {
+            "skill": "AWS Analytics",
+            "job_postings": 1
+        },
+        {
+            "skill": "AWS Compute",
+            "job_postings": 1
+        },
+        {
+            "skill": "AWS Database",
+            "job_postings": 1
+        },
+        {
+            "skill": "AWS Developer Tools",
+            "job_postings": 1
+        },
+        {
+            "skill": "AWS Machine Learning",
+            "job_postings": 1
+        },
+        {
+            "skill": "Artificial Neural Networks",
+            "job_postings": 1
+        },
+        {
+            "skill": "Bokeh",
+            "job_postings": 1
+        },
+        {
+            "skill": "Clustering",
+            "job_postings": 1
+        },
+        {
+            "skill": "D3.js",
+            "job_postings": 1
+        },
+        {
+            "skill": "Data Retrieval",
+            "job_postings": 1
+        },
+        {
+            "skill": "Data Storage",
+            "job_postings": 1
+        },
+        {
+            "skill": "Data Visualization",
+            "job_postings": 1
+        },
+        {
+            "skill": "Data Warehousing",
+            "job_postings": 1
+        },
+        {
+            "skill": "Decision Tree Learning",
+            "job_postings": 1
+        }
+    ],
+    "IT Data Analyst": [
+        {
+            "skill": "SQL",
+            "job_postings": 3
+        },
+        {
+            "skill": "Power BI",
+            "job_postings": 3
+        },
+        {
+            "skill": "Python",
+            "job_postings": 2
+        },
+        {
+            "skill": "SQL Server",
+            "job_postings": 2
+        },
+        {
+            "skill": "Excel",
+            "job_postings": 2
+        },
+        {
+            "skill": "Tableau",
+            "job_postings": 2
+        },
+        {
+            "skill": "Data Warehousing",
+            "job_postings": 1
+        },
+        {
+            "skill": "Data Modeling",
+            "job_postings": 1
+        },
+        {
+            "skill": "C#",
+            "job_postings": 1
+        },
+        {
+            "skill": "ASP.NET",
+            "job_postings": 1
+        },
+        {
+            "skill": ".NET",
+            "job_postings": 1
+        },
+        {
+            "skill": "Microsoft Office Suite",
+            "job_postings": 1
+        },
+        {
+            "skill": "SOA",
+            "job_postings": 1
+        },
+        {
+            "skill": "Power Automate",
+            "job_postings": 1
+        },
+        {
+            "skill": "SQL Profiler",
+            "job_postings": 1
+        }
+    ],
+    "Data Analyst III (Healthcare Analytics)": [
+        {
+            "skill": "Artificial Intelligence",
+            "job_postings": 1
+        },
+        {
+            "skill": "Business Intelligence",
+            "job_postings": 1
+        },
+        {
+            "skill": "Claims Payment",
+            "job_postings": 1
+        },
+        {
+            "skill": "Dashboard Development",
+            "job_postings": 1
+        },
+        {
+            "skill": "Data Analysis",
+            "job_postings": 1
+        },
+        {
+            "skill": "Data Design",
+            "job_postings": 1
+        },
+        {
+            "skill": "Data Governance",
+            "job_postings": 1
+        },
+        {
+            "skill": "Data Integration",
+            "job_postings": 1
+        },
+        {
+            "skill": "Data Mining",
+            "job_postings": 1
+        },
+        {
+            "skill": "Data Modeling",
+            "job_postings": 1
+        },
+        {
+            "skill": "Data Quality",
+            "job_postings": 1
+        },
+        {
+            "skill": "Data Visualization",
+            "job_postings": 1
+        },
+        {
+            "skill": "Geospatial Analysis",
+            "job_postings": 1
+        },
+        {
+            "skill": "HEDIS",
+            "job_postings": 1
+        },
+        {
+            "skill": "Machine Learning",
+            "job_postings": 1
+        }
+    ],
+    "Data Analyst (H/F)": [
+        {
+            "skill": "Business Intelligence",
+            "job_postings": 1
+        },
+        {
+            "skill": "Cloudera",
+            "job_postings": 1
+        },
+        {
+            "skill": "Data Analytics",
+            "job_postings": 1
+        },
+        {
+            "skill": "Data Architecture",
+            "job_postings": 1
+        },
+        {
+            "skill": "Data Modeling",
+            "job_postings": 1
+        },
+        {
+            "skill": "Data Preparation",
+            "job_postings": 1
+        },
+        {
+            "skill": "Data Science",
+            "job_postings": 1
+        },
+        {
+            "skill": "Data Visualization",
+            "job_postings": 1
+        },
+        {
+            "skill": "Dataiku",
+            "job_postings": 1
+        },
+        {
+            "skill": "ETL",
+            "job_postings": 1
+        },
+        {
+            "skill": "Hive",
+            "job_postings": 1
+        },
+        {
+            "skill": "IBM SPSS",
+            "job_postings": 1
+        },
+        {
+            "skill": "Impala",
+            "job_postings": 1
+        },
+        {
+            "skill": "Informatica",
+            "job_postings": 1
+        },
+        {
+            "skill": "KNIME",
+            "job_postings": 1
+        }
+    ],
+    "Data Analyst, Developer Operations. Job in New York My Valley Jobs...": [
+        {
+            "skill": "A/B Testing",
+            "job_postings": 1
+        },
+        {
+            "skill": "Classification",
+            "job_postings": 1
+        },
+        {
+            "skill": "Clustering",
+            "job_postings": 1
+        },
+        {
+            "skill": "Data Mining",
+            "job_postings": 1
+        },
+        {
+            "skill": "Decision Tree",
+            "job_postings": 1
+        },
+        {
+            "skill": "Descriptive Statistics",
+            "job_postings": 1
+        },
+        {
+            "skill": "ETL",
+            "job_postings": 1
+        },
+        {
+            "skill": "Inferential Statistics",
+            "job_postings": 1
+        },
+        {
+            "skill": "Neural Networks",
+            "job_postings": 1
+        },
+        {
+            "skill": "NumPy",
+            "job_postings": 1
+        },
+        {
+            "skill": "Pandas",
+            "job_postings": 1
+        },
+        {
+            "skill": "Pattern Recognition",
+            "job_postings": 1
+        },
+        {
+            "skill": "PyCaret",
+            "job_postings": 1
+        },
+        {
+            "skill": "Python",
+            "job_postings": 1
+        },
+        {
+            "skill": "QlikView",
+            "job_postings": 1
+        }
+    ],
+    "Lead Data Analyst": [
+        {
+            "skill": "SQL",
+            "job_postings": 3
+        },
+        {
+            "skill": "AWS",
+            "job_postings": 2
+        },
+        {
+            "skill": "Snowflake",
+            "job_postings": 2
+        },
+        {
+            "skill": "Business Intelligence Tools",
+            "job_postings": 1
+        },
+        {
+            "skill": "Advanced analytic techniques",
+            "job_postings": 1
+        },
+        {
+            "skill": "Advanced Analytics",
+            "job_postings": 1
+        },
+        {
+            "skill": "Data Cleansing",
+            "job_postings": 1
+        },
+        {
+            "skill": "Data Extraction",
+            "job_postings": 1
+        },
+        {
+            "skill": "Data Governance",
+            "job_postings": 1
+        },
+        {
+            "skill": "Data Mapping",
+            "job_postings": 1
+        },
+        {
+            "skill": "Data Migration",
+            "job_postings": 1
+        },
+        {
+            "skill": "Data Migration Methodologies",
+            "job_postings": 1
+        },
+        {
+            "skill": "Compliance",
+            "job_postings": 1
+        },
+        {
+            "skill": "Data Analysis",
+            "job_postings": 1
+        },
+        {
+            "skill": "Data Transformation",
+            "job_postings": 1
+        }
+    ],
+    "Hiring Data Analysts": [
+        {
+            "skill": "Data Mining",
+            "job_postings": 2
+        },
+        {
+            "skill": "Reporting",
+            "job_postings": 2
+        },
+        {
+            "skill": "IBM SPSS",
+            "job_postings": 2
+        },
+        {
+            "skill": "Data Visualization",
+            "job_postings": 2
+        },
+        {
+            "skill": "Database Design",
+            "job_postings": 2
+        },
+        {
+            "skill": "SAS",
+            "job_postings": 2
+        },
+        {
+            "skill": "SQL",
+            "job_postings": 2
+        },
+        {
+            "skill": "Statistical Analysis",
+            "job_postings": 2
+        },
+        {
+            "skill": "Data Analysis",
+            "job_postings": 1
+        },
+        {
+            "skill": "Data Collection Systems",
+            "job_postings": 1
+        },
+        {
+            "skill": "Data Cleaning",
+            "job_postings": 1
+        },
+        {
+            "skill": "Data Automation",
+            "job_postings": 1
+        },
+        {
+            "skill": "Data Preprocessing",
+            "job_postings": 1
+        },
+        {
+            "skill": "Machine Learning Algorithms",
+            "job_postings": 1
+        },
+        {
+            "skill": "Machine Learning",
+            "job_postings": 1
+        }
+    ],
+    "Business Analytics/Data Analyst": [
+        {
+            "skill": "Automation",
+            "job_postings": 1
+        },
+        {
+            "skill": "Backend Development",
+            "job_postings": 1
+        },
+        {
+            "skill": "Business Intelligence",
+            "job_postings": 1
+        },
+        {
+            "skill": "C#",
+            "job_postings": 1
+        },
+        {
+            "skill": "Dashboards",
+            "job_postings": 1
+        },
+        {
+            "skill": "Data Analytics",
+            "job_postings": 1
+        },
+        {
+            "skill": "Data Collection",
+            "job_postings": 1
+        },
+        {
+            "skill": "Data Integration",
+            "job_postings": 1
+        },
+        {
+            "skill": "Data Interfaces",
+            "job_postings": 1
+        },
+        {
+            "skill": "Data Modeling",
+            "job_postings": 1
+        },
+        {
+            "skill": "Data Visualization",
+            "job_postings": 1
+        },
+        {
+            "skill": "Database Design",
+            "job_postings": 1
+        },
+        {
+            "skill": "Debugging",
+            "job_postings": 1
+        },
+        {
+            "skill": "Ignition",
+            "job_postings": 1
+        },
+        {
+            "skill": "Industrial Automation",
+            "job_postings": 1
+        }
+    ],
+    "Data Analyst- Chicago IL (someone local/relocate to IL) / Remote ...": [
+        {
+            "skill": "Alteryx",
+            "job_postings": 1
+        },
+        {
+            "skill": "Business Analysis",
+            "job_postings": 1
+        },
+        {
+            "skill": "Classification",
+            "job_postings": 1
+        },
+        {
+            "skill": "Clustering",
+            "job_postings": 1
+        },
+        {
+            "skill": "Dashboarding",
+            "job_postings": 1
+        },
+        {
+            "skill": "Data Flow Diagrams",
+            "job_postings": 1
+        },
+        {
+            "skill": "Data Modeling",
+            "job_postings": 1
+        },
+        {
+            "skill": "Dataiku",
+            "job_postings": 1
+        },
+        {
+            "skill": "Decision Tree",
+            "job_postings": 1
+        },
+        {
+            "skill": "ER Diagrams",
+            "job_postings": 1
+        },
+        {
+            "skill": "Excel",
+            "job_postings": 1
+        },
+        {
+            "skill": "Java",
+            "job_postings": 1
+        },
+        {
+            "skill": "MS PowerPoint",
+            "job_postings": 1
+        },
+        {
+            "skill": "MongoDB",
+            "job_postings": 1
+        },
+        {
+            "skill": "MySQL",
+            "job_postings": 1
+        }
+    ],
+    "Sr Technical Data Analyst": [
+        {
+            "skill": "Project Management",
+            "job_postings": 2
+        },
+        {
+            "skill": "SQL",
+            "job_postings": 2
+        },
+        {
+            "skill": "Excel",
+            "job_postings": 2
+        },
+        {
+            "skill": "Microsoft Access",
+            "job_postings": 2
+        },
+        {
+            "skill": "Database Design",
+            "job_postings": 2
+        },
+        {
+            "skill": "Data Visualization",
+            "job_postings": 2
+        },
+        {
+            "skill": "Data Quality",
+            "job_postings": 1
+        },
+        {
+            "skill": "Data Modeling",
+            "job_postings": 1
+        },
+        {
+            "skill": "Data Analysis",
+            "job_postings": 1
+        },
+        {
+            "skill": "Dashboards",
+            "job_postings": 1
+        },
+        {
+            "skill": "BI Tools",
+            "job_postings": 1
+        },
+        {
+            "skill": "AS400",
+            "job_postings": 1
+        },
+        {
+            "skill": "Entity Relationship Diagrams",
+            "job_postings": 1
+        },
+        {
+            "skill": "EDW",
+            "job_postings": 1
+        },
+        {
+            "skill": "ORMIS",
+            "job_postings": 1
+        }
+    ],
+    "Data Science Analyst I (Full Time) - United States": [
+        {
+            "skill": "Analytic Models",
+            "job_postings": 1
+        },
+        {
+            "skill": "Automation",
+            "job_postings": 1
+        },
+        {
+            "skill": "BI/Reporting",
+            "job_postings": 1
+        },
+        {
+            "skill": "Business Objects",
+            "job_postings": 1
+        },
+        {
+            "skill": "Data Manipulation",
+            "job_postings": 1
+        },
+        {
+            "skill": "Data Mining",
+            "job_postings": 1
+        },
+        {
+            "skill": "Data Modeling",
+            "job_postings": 1
+        },
+        {
+            "skill": "Database Design",
+            "job_postings": 1
+        },
+        {
+            "skill": "Deep Learning",
+            "job_postings": 1
+        },
+        {
+            "skill": "ETL Tools",
+            "job_postings": 1
+        },
+        {
+            "skill": "Excel",
+            "job_postings": 1
+        },
+        {
+            "skill": "Forecasting",
+            "job_postings": 1
+        },
+        {
+            "skill": "Hadoop",
+            "job_postings": 1
+        },
+        {
+            "skill": "JavaScript",
+            "job_postings": 1
+        },
+        {
+            "skill": "Machine Learning",
+            "job_postings": 1
+        }
+    ],
+    "Data Analyst (Reporting & BI)": [
+        {
+            "skill": "AWS",
+            "job_postings": 1
+        },
+        {
+            "skill": "Algorithm Development",
+            "job_postings": 1
+        },
+        {
+            "skill": "Athena",
+            "job_postings": 1
+        },
+        {
+            "skill": "Automation",
+            "job_postings": 1
+        },
+        {
+            "skill": "Azure",
+            "job_postings": 1
+        },
+        {
+            "skill": "Dashboarding",
+            "job_postings": 1
+        },
+        {
+            "skill": "Data Analysis",
+            "job_postings": 1
+        },
+        {
+            "skill": "Data Cleaning",
+            "job_postings": 1
+        },
+        {
+            "skill": "Data Integration",
+            "job_postings": 1
+        },
+        {
+            "skill": "Data Interpretation",
+            "job_postings": 1
+        },
+        {
+            "skill": "Data Lake",
+            "job_postings": 1
+        },
+        {
+            "skill": "Data Manipulation",
+            "job_postings": 1
+        },
+        {
+            "skill": "Data Mapping",
+            "job_postings": 1
+        },
+        {
+            "skill": "Data Quality",
+            "job_postings": 1
+        },
+        {
+            "skill": "Data Transformation",
+            "job_postings": 1
+        }
+    ],
+    "Media Data Analyst": [
+        {
+            "skill": "API Integration",
+            "job_postings": 1
+        },
+        {
+            "skill": "Analytics Processes",
+            "job_postings": 1
+        },
+        {
+            "skill": "Business Recommendations",
+            "job_postings": 1
+        },
+        {
+            "skill": "CRM Data Analysis",
+            "job_postings": 1
+        },
+        {
+            "skill": "Campaign Analysis",
+            "job_postings": 1
+        },
+        {
+            "skill": "Dashboards",
+            "job_postings": 1
+        },
+        {
+            "skill": "Data Analysis",
+            "job_postings": 1
+        },
+        {
+            "skill": "Data Governance",
+            "job_postings": 1
+        },
+        {
+            "skill": "Data Synthesis",
+            "job_postings": 1
+        },
+        {
+            "skill": "Data Transformation",
+            "job_postings": 1
+        },
+        {
+            "skill": "Data Visualization",
+            "job_postings": 1
+        },
+        {
+            "skill": "Documentation",
+            "job_postings": 1
+        },
+        {
+            "skill": "Excel",
+            "job_postings": 1
+        },
+        {
+            "skill": "Full-Funnel Analysis",
+            "job_postings": 1
+        },
+        {
+            "skill": "Looker",
+            "job_postings": 1
+        }
+    ],
+    "Business Intelligence & Digital Analyst": [
+        {
+            "skill": "AI Agents",
+            "job_postings": 2
+        },
+        {
+            "skill": "Adobe Analytics",
+            "job_postings": 2
+        },
+        {
+            "skill": "Data Pipelines",
+            "job_postings": 2
+        },
+        {
+            "skill": "SQL",
+            "job_postings": 2
+        },
+        {
+            "skill": "Power BI",
+            "job_postings": 2
+        },
+        {
+            "skill": "Excel",
+            "job_postings": 2
+        },
+        {
+            "skill": "Data Warehouses",
+            "job_postings": 2
+        },
+        {
+            "skill": "Data Visualization",
+            "job_postings": 2
+        },
+        {
+            "skill": "Tableau",
+            "job_postings": 2
+        },
+        {
+            "skill": "Python",
+            "job_postings": 2
+        },
+        {
+            "skill": "Data Validation",
+            "job_postings": 1
+        },
+        {
+            "skill": "Dashboards",
+            "job_postings": 1
+        },
+        {
+            "skill": "Advanced Analytics Platforms",
+            "job_postings": 1
+        },
+        {
+            "skill": "Data Transformation",
+            "job_postings": 1
+        },
+        {
+            "skill": "Data Querying",
+            "job_postings": 1
+        }
+    ],
+    "Clinical Data Analyst II": [
+        {
+            "skill": "SAS",
+            "job_postings": 2
+        },
+        {
+            "skill": "C#",
+            "job_postings": 1
+        },
+        {
+            "skill": "Data Modeling",
+            "job_postings": 1
+        },
+        {
+            "skill": "Dashboarding",
+            "job_postings": 1
+        },
+        {
+            "skill": "Data Warehousing",
+            "job_postings": 1
+        },
+        {
+            "skill": "ETL",
+            "job_postings": 1
+        },
+        {
+            "skill": "Excel",
+            "job_postings": 1
+        },
+        {
+            "skill": "Data Visualization",
+            "job_postings": 1
+        },
+        {
+            "skill": "InForm",
+            "job_postings": 1
+        },
+        {
+            "skill": "MATLAB",
+            "job_postings": 1
+        },
+        {
+            "skill": "Medrio",
+            "job_postings": 1
+        },
+        {
+            "skill": "MS Access",
+            "job_postings": 1
+        },
+        {
+            "skill": "OpenClinica",
+            "job_postings": 1
+        },
+        {
+            "skill": "PowerPoint",
+            "job_postings": 1
+        },
+        {
+            "skill": "Python",
+            "job_postings": 1
+        }
+    ],
+    "Business Analyst/Healthcare Data Analyst": [
+        {
+            "skill": "Business Case Analysis",
+            "job_postings": 1
+        },
+        {
+            "skill": "CHCS",
+            "job_postings": 1
+        },
+        {
+            "skill": "CPT",
+            "job_postings": 1
+        },
+        {
+            "skill": "Comparative Analysis",
+            "job_postings": 1
+        },
+        {
+            "skill": "DMHRSi",
+            "job_postings": 1
+        },
+        {
+            "skill": "Data Import",
+            "job_postings": 1
+        },
+        {
+            "skill": "Data Integration",
+            "job_postings": 1
+        },
+        {
+            "skill": "Data Presentation",
+            "job_postings": 1
+        },
+        {
+            "skill": "Data Quality",
+            "job_postings": 1
+        },
+        {
+            "skill": "Data Table Structures",
+            "job_postings": 1
+        },
+        {
+            "skill": "Decision Support",
+            "job_postings": 1
+        },
+        {
+            "skill": "HCPS",
+            "job_postings": 1
+        },
+        {
+            "skill": "ICD-10",
+            "job_postings": 1
+        },
+        {
+            "skill": "ICD-9",
+            "job_postings": 1
+        },
+        {
+            "skill": "M2 File",
+            "job_postings": 1
+        }
+    ],
+    "Looking for Data Analysts": [
+        {
+            "skill": "Data Analysis",
+            "job_postings": 2
+        },
+        {
+            "skill": "Data Mining",
+            "job_postings": 2
+        },
+        {
+            "skill": "Data Modeling",
+            "job_postings": 2
+        },
+        {
+            "skill": "Data Visualization",
+            "job_postings": 2
+        },
+        {
+            "skill": "Database Design",
+            "job_postings": 2
+        },
+        {
+            "skill": "IBM SPSS",
+            "job_postings": 2
+        },
+        {
+            "skill": "Predictive Modeling",
+            "job_postings": 2
+        },
+        {
+            "skill": "SQL",
+            "job_postings": 2
+        },
+        {
+            "skill": "Statistical Analysis",
+            "job_postings": 2
+        },
+        {
+            "skill": "SAS",
+            "job_postings": 2
+        },
+        {
+            "skill": "Excel",
+            "job_postings": 1
+        },
+        {
+            "skill": "Report Writing",
+            "job_postings": 1
+        },
+        {
+            "skill": "Machine Learning",
+            "job_postings": 1
+        },
+        {
+            "skill": "JavaScript",
+            "job_postings": 1
+        },
+        {
+            "skill": "Segmentation",
+            "job_postings": 1
+        }
+    ],
+    "Data Analytics Developer / Data Analyst": [
+        {
+            "skill": "Bootstrap",
+            "job_postings": 1
+        },
+        {
+            "skill": "CI/CD",
+            "job_postings": 1
+        },
+        {
+            "skill": "CSS",
+            "job_postings": 1
+        },
+        {
+            "skill": "CassandraDB",
+            "job_postings": 1
+        },
+        {
+            "skill": "Dash",
+            "job_postings": 1
+        },
+        {
+            "skill": "DevOps",
+            "job_postings": 1
+        },
+        {
+            "skill": "Docker",
+            "job_postings": 1
+        },
+        {
+            "skill": "Docker Compose",
+            "job_postings": 1
+        },
+        {
+            "skill": "GitHub",
+            "job_postings": 1
+        },
+        {
+            "skill": "GraphDB",
+            "job_postings": 1
+        },
+        {
+            "skill": "HTML",
+            "job_postings": 1
+        },
+        {
+            "skill": "JavaScript",
+            "job_postings": 1
+        },
+        {
+            "skill": "Jenkins",
+            "job_postings": 1
+        },
+        {
+            "skill": "Linux",
+            "job_postings": 1
+        },
+        {
+            "skill": "MSSQL",
+            "job_postings": 1
+        }
+    ],
+    "Data Analyst/Scientist": [
+        {
+            "skill": "MySQL",
+            "job_postings": 2
+        },
+        {
+            "skill": "Business Analytics",
+            "job_postings": 1
+        },
+        {
+            "skill": "Ad-hoc Reporting",
+            "job_postings": 1
+        },
+        {
+            "skill": "Data Mapping",
+            "job_postings": 1
+        },
+        {
+            "skill": "Data Mining",
+            "job_postings": 1
+        },
+        {
+            "skill": "Data Modeling",
+            "job_postings": 1
+        },
+        {
+            "skill": "Data Analysis",
+            "job_postings": 1
+        },
+        {
+            "skill": "Data Warehousing",
+            "job_postings": 1
+        },
+        {
+            "skill": "Forecasting",
+            "job_postings": 1
+        },
+        {
+            "skill": "Java",
+            "job_postings": 1
+        },
+        {
+            "skill": "Operational Research",
+            "job_postings": 1
+        },
+        {
+            "skill": "Oracle",
+            "job_postings": 1
+        },
+        {
+            "skill": "Power BI",
+            "job_postings": 1
+        },
+        {
+            "skill": "Predictive Analytics",
+            "job_postings": 1
+        },
+        {
+            "skill": "Python",
+            "job_postings": 1
+        }
+    ],
+    "Data Analyst Sr": [
+        {
+            "skill": "Python",
+            "job_postings": 4
+        },
+        {
+            "skill": "SQL",
+            "job_postings": 3
+        },
+        {
+            "skill": "Tableau",
+            "job_postings": 3
+        },
+        {
+            "skill": "AWS",
+            "job_postings": 2
+        },
+        {
+            "skill": "DV360",
+            "job_postings": 1
+        },
+        {
+            "skill": "Agile Methodologies",
+            "job_postings": 1
+        },
+        {
+            "skill": "Google Ads",
+            "job_postings": 1
+        },
+        {
+            "skill": "Facebook Ads",
+            "job_postings": 1
+        },
+        {
+            "skill": "Excel",
+            "job_postings": 1
+        },
+        {
+            "skill": "Google Analytics",
+            "job_postings": 1
+        },
+        {
+            "skill": "Machine Learning",
+            "job_postings": 1
+        },
+        {
+            "skill": "HTML",
+            "job_postings": 1
+        },
+        {
+            "skill": "Java",
+            "job_postings": 1
+        },
+        {
+            "skill": "Looker",
+            "job_postings": 1
+        },
+        {
+            "skill": "Power BI",
+            "job_postings": 1
+        }
+    ],
+    "Data Analyst (Remote, Graveyard)": [
+        {
+            "skill": "AI",
+            "job_postings": 1
+        },
+        {
+            "skill": "Automation",
+            "job_postings": 1
+        },
+        {
+            "skill": "Business Objects",
+            "job_postings": 1
+        },
+        {
+            "skill": "Data Cleaning",
+            "job_postings": 1
+        },
+        {
+            "skill": "Data Mining",
+            "job_postings": 1
+        },
+        {
+            "skill": "Data Modeling",
+            "job_postings": 1
+        },
+        {
+            "skill": "Data Storage",
+            "job_postings": 1
+        },
+        {
+            "skill": "Data Warehousing",
+            "job_postings": 1
+        },
+        {
+            "skill": "Database Design",
+            "job_postings": 1
+        },
+        {
+            "skill": "ETL",
+            "job_postings": 1
+        },
+        {
+            "skill": "Excel",
+            "job_postings": 1
+        },
+        {
+            "skill": "Google Sheets",
+            "job_postings": 1
+        },
+        {
+            "skill": "Google Slides",
+            "job_postings": 1
+        },
+        {
+            "skill": "JavaScript",
+            "job_postings": 1
+        },
+        {
+            "skill": "Master Data Management",
+            "job_postings": 1
+        }
+    ],
+    "Data Analyst | Remote": [
+        {
+            "skill": "Data Analysis",
+            "job_postings": 3
+        },
+        {
+            "skill": "SQL",
+            "job_postings": 3
+        },
+        {
+            "skill": "Data Modeling",
+            "job_postings": 3
+        },
+        {
+            "skill": "Data Visualization",
+            "job_postings": 3
+        },
+        {
+            "skill": "Data Warehousing",
+            "job_postings": 3
+        },
+        {
+            "skill": "Tableau",
+            "job_postings": 3
+        },
+        {
+            "skill": "Power BI",
+            "job_postings": 3
+        },
+        {
+            "skill": "Business Intelligence",
+            "job_postings": 1
+        },
+        {
+            "skill": "Data Analytics",
+            "job_postings": 1
+        }
+    ],
+    "Reporting Analyst | Remote": [
+        {
+            "skill": "Data Analysis",
+            "job_postings": 3
+        },
+        {
+            "skill": "SQL",
+            "job_postings": 3
+        },
+        {
+            "skill": "Data Modeling",
+            "job_postings": 3
+        },
+        {
+            "skill": "Data Visualization",
+            "job_postings": 3
+        },
+        {
+            "skill": "Data Warehousing",
+            "job_postings": 3
+        },
+        {
+            "skill": "Tableau",
+            "job_postings": 3
+        },
+        {
+            "skill": "Power BI",
+            "job_postings": 3
+        },
+        {
+            "skill": "Business Intelligence",
+            "job_postings": 1
+        },
+        {
+            "skill": "Data Analytics",
+            "job_postings": 1
+        }
+    ],
+    "Business and Data Analyst (Remote)": [
+        {
+            "skill": "Agile",
+            "job_postings": 1
+        },
+        {
+            "skill": "Business Analysis",
+            "job_postings": 1
+        },
+        {
+            "skill": "Business Analytics",
+            "job_postings": 1
+        },
+        {
+            "skill": "Business Process Analysis",
+            "job_postings": 1
+        },
+        {
+            "skill": "Data Analysis",
+            "job_postings": 1
+        },
+        {
+            "skill": "Data Manipulation",
+            "job_postings": 1
+        },
+        {
+            "skill": "Data Presentation",
+            "job_postings": 1
+        },
+        {
+            "skill": "Data Retrieval",
+            "job_postings": 1
+        },
+        {
+            "skill": "Data Science",
+            "job_postings": 1
+        },
+        {
+            "skill": "Data Transformation",
+            "job_postings": 1
+        },
+        {
+            "skill": "Excel",
+            "job_postings": 1
+        },
+        {
+            "skill": "Explanatory Data Analysis",
+            "job_postings": 1
+        },
+        {
+            "skill": "Functional Requirements Analysis",
+            "job_postings": 1
+        },
+        {
+            "skill": "Gap Analysis",
+            "job_postings": 1
+        },
+        {
+            "skill": "Information Classification",
+            "job_postings": 1
+        }
+    ],
+    "Principal Data Analyst": [
+        {
+            "skill": "Power BI",
+            "job_postings": 2
+        },
+        {
+            "skill": "SQL",
+            "job_postings": 2
+        },
+        {
+            "skill": "Azure",
+            "job_postings": 1
+        },
+        {
+            "skill": "Advanced Analytics",
+            "job_postings": 1
+        },
+        {
+            "skill": "AWS",
+            "job_postings": 1
+        },
+        {
+            "skill": "Databricks",
+            "job_postings": 1
+        },
+        {
+            "skill": "DAX",
+            "job_postings": 1
+        },
+        {
+            "skill": "Flow",
+            "job_postings": 1
+        },
+        {
+            "skill": "Design of Experiment",
+            "job_postings": 1
+        },
+        {
+            "skill": "Go",
+            "job_postings": 1
+        },
+        {
+            "skill": "Machine Learning",
+            "job_postings": 1
+        },
+        {
+            "skill": "Modeling",
+            "job_postings": 1
+        },
+        {
+            "skill": "Excel",
+            "job_postings": 1
+        },
+        {
+            "skill": "Optimization",
+            "job_postings": 1
+        },
+        {
+            "skill": "Prescriptive Analytics",
+            "job_postings": 1
+        }
+    ],
+    "Data Engineer/ Data Analyst-India": [
+        {
+            "skill": "Agile",
+            "job_postings": 1
+        },
+        {
+            "skill": "Alteryx",
+            "job_postings": 1
+        },
+        {
+            "skill": "Azure Data Factory",
+            "job_postings": 1
+        },
+        {
+            "skill": "Azure SQL",
+            "job_postings": 1
+        },
+        {
+            "skill": "Azure Synapse",
+            "job_postings": 1
+        },
+        {
+            "skill": "C#",
+            "job_postings": 1
+        },
+        {
+            "skill": "CI/CD",
+            "job_postings": 1
+        },
+        {
+            "skill": "Data Warehousing",
+            "job_postings": 1
+        },
+        {
+            "skill": "ETL",
+            "job_postings": 1
+        },
+        {
+            "skill": "Fivetran",
+            "job_postings": 1
+        },
+        {
+            "skill": "Go",
+            "job_postings": 1
+        },
+        {
+            "skill": "Informatica",
+            "job_postings": 1
+        },
+        {
+            "skill": "Java",
+            "job_postings": 1
+        },
+        {
+            "skill": "Kimball Methodology",
+            "job_postings": 1
+        },
+        {
+            "skill": "Matillion",
+            "job_postings": 1
+        }
+    ],
+    "Associate Data Analyst": [
+        {
+            "skill": "R",
+            "job_postings": 3
+        },
+        {
+            "skill": "SQL",
+            "job_postings": 3
+        },
+        {
+            "skill": "Looker",
+            "job_postings": 3
+        },
+        {
+            "skill": "Python",
+            "job_postings": 3
+        },
+        {
+            "skill": "MicroStrategy",
+            "job_postings": 2
+        },
+        {
+            "skill": "A/B testing",
+            "job_postings": 2
+        },
+        {
+            "skill": "Plotly",
+            "job_postings": 2
+        },
+        {
+            "skill": "Tableau",
+            "job_postings": 2
+        },
+        {
+            "skill": "Analytical skills",
+            "job_postings": 1
+        },
+        {
+            "skill": "Data Storytelling",
+            "job_postings": 1
+        },
+        {
+            "skill": "Go",
+            "job_postings": 1
+        }
+    ],
+    "Data Analyst, Data Analytics": [
+        {
+            "skill": "Tableau",
+            "job_postings": 2
+        },
+        {
+            "skill": "SQL",
+            "job_postings": 2
+        },
+        {
+            "skill": "Looker",
+            "job_postings": 2
+        },
+        {
+            "skill": "Alteryx",
+            "job_postings": 1
+        },
+        {
+            "skill": "Data Studio",
+            "job_postings": 1
+        },
+        {
+            "skill": "CRM",
+            "job_postings": 1
+        },
+        {
+            "skill": "BOBJ",
+            "job_postings": 1
+        },
+        {
+            "skill": "Dimensional Modeling",
+            "job_postings": 1
+        },
+        {
+            "skill": "IMS/IQVIA",
+            "job_postings": 1
+        },
+        {
+            "skill": "MMIT",
+            "job_postings": 1
+        },
+        {
+            "skill": "Google Cloud Platform",
+            "job_postings": 1
+        },
+        {
+            "skill": "Evaluate Pharma",
+            "job_postings": 1
+        },
+        {
+            "skill": "Power BI",
+            "job_postings": 1
+        },
+        {
+            "skill": "Machine Learning",
+            "job_postings": 1
+        },
+        {
+            "skill": "PowerBI",
+            "job_postings": 1
+        }
+    ],
+    "Senior Data Analyst (Contractor)": [
+        {
+            "skill": "AWS",
+            "job_postings": 1
+        },
+        {
+            "skill": "Airflow",
+            "job_postings": 1
+        },
+        {
+            "skill": "Business Intelligence",
+            "job_postings": 1
+        },
+        {
+            "skill": "Data Analysis",
+            "job_postings": 1
+        },
+        {
+            "skill": "Data Modeling",
+            "job_postings": 1
+        },
+        {
+            "skill": "Data Quality",
+            "job_postings": 1
+        },
+        {
+            "skill": "Data Visualization",
+            "job_postings": 1
+        },
+        {
+            "skill": "Data Warehousing",
+            "job_postings": 1
+        },
+        {
+            "skill": "ELT",
+            "job_postings": 1
+        },
+        {
+            "skill": "ETL",
+            "job_postings": 1
+        },
+        {
+            "skill": "Fivetran",
+            "job_postings": 1
+        },
+        {
+            "skill": "Hubspot",
+            "job_postings": 1
+        },
+        {
+            "skill": "Looker",
+            "job_postings": 1
+        },
+        {
+            "skill": "Metric Creation",
+            "job_postings": 1
+        },
+        {
+            "skill": "Netsuite",
+            "job_postings": 1
+        }
+    ],
+    "Process Data Analyst": [
+        {
+            "skill": "Ad hoc Data Requests",
+            "job_postings": 1
+        },
+        {
+            "skill": "Bioinformatics",
+            "job_postings": 1
+        },
+        {
+            "skill": "Continued Process Verification (CPV)",
+            "job_postings": 1
+        },
+        {
+            "skill": "Dashboard Creation",
+            "job_postings": 1
+        },
+        {
+            "skill": "Data Analysis",
+            "job_postings": 1
+        },
+        {
+            "skill": "Data Architecture Optimization",
+            "job_postings": 1
+        },
+        {
+            "skill": "Data Collection",
+            "job_postings": 1
+        },
+        {
+            "skill": "Data Optimization",
+            "job_postings": 1
+        },
+        {
+            "skill": "Data Science",
+            "job_postings": 1
+        },
+        {
+            "skill": "Data Trending",
+            "job_postings": 1
+        },
+        {
+            "skill": "JMP",
+            "job_postings": 1
+        },
+        {
+            "skill": "KPI Tracking",
+            "job_postings": 1
+        },
+        {
+            "skill": "Machine Learning",
+            "job_postings": 1
+        },
+        {
+            "skill": "Minitab",
+            "job_postings": 1
+        },
+        {
+            "skill": "Power BI",
+            "job_postings": 1
+        }
+    ],
+    "Data Analyst (m/w/d)": [
+        {
+            "skill": "SQL",
+            "job_postings": 5
+        },
+        {
+            "skill": "Power BI",
+            "job_postings": 3
+        },
+        {
+            "skill": "Julia",
+            "job_postings": 2
+        },
+        {
+            "skill": "Snowflake",
+            "job_postings": 2
+        },
+        {
+            "skill": "Tableau",
+            "job_postings": 2
+        },
+        {
+            "skill": "R",
+            "job_postings": 2
+        },
+        {
+            "skill": "DAX",
+            "job_postings": 1
+        },
+        {
+            "skill": "Firebase",
+            "job_postings": 1
+        },
+        {
+            "skill": "HTML",
+            "job_postings": 1
+        },
+        {
+            "skill": "Python",
+            "job_postings": 1
+        },
+        {
+            "skill": "SAS",
+            "job_postings": 1
+        },
+        {
+            "skill": "SPSS",
+            "job_postings": 1
+        }
+    ],
+    "Clinical Data Analyst (FSP), South Africa": [
+        {
+            "skill": "ClinBase",
+            "job_postings": 1
+        },
+        {
+            "skill": "Clinical Coding Guidelines (CCGs)",
+            "job_postings": 1
+        },
+        {
+            "skill": "Clinical Database Setup",
+            "job_postings": 1
+        },
+        {
+            "skill": "Data Handling Plan (DHP)",
+            "job_postings": 1
+        },
+        {
+            "skill": "Data Review Plan (DRP)",
+            "job_postings": 1
+        },
+        {
+            "skill": "Data Validation",
+            "job_postings": 1
+        },
+        {
+            "skill": "DataLabs",
+            "job_postings": 1
+        },
+        {
+            "skill": "Database Configuration",
+            "job_postings": 1
+        },
+        {
+            "skill": "EDC Systems",
+            "job_postings": 1
+        },
+        {
+            "skill": "Electronic Source Data Capture Systems",
+            "job_postings": 1
+        },
+        {
+            "skill": "FDA Guidelines",
+            "job_postings": 1
+        },
+        {
+            "skill": "ICH Guidelines",
+            "job_postings": 1
+        },
+        {
+            "skill": "ICH-GCP Guidelines",
+            "job_postings": 1
+        },
+        {
+            "skill": "MedDRA",
+            "job_postings": 1
+        },
+        {
+            "skill": "Query Resolution",
+            "job_postings": 1
+        }
+    ],
+    "Cybersecurity Threat and Vulnerability Data Analyst (Phoenix, AZ)": [
+        {
+            "skill": "Agile",
+            "job_postings": 1
+        },
+        {
+            "skill": "Application Portfolio Management",
+            "job_postings": 1
+        },
+        {
+            "skill": "CMDB",
+            "job_postings": 1
+        },
+        {
+            "skill": "Data Analysis",
+            "job_postings": 1
+        },
+        {
+            "skill": "Data Architecture",
+            "job_postings": 1
+        },
+        {
+            "skill": "Data Cleansing",
+            "job_postings": 1
+        },
+        {
+            "skill": "Data Engineering",
+            "job_postings": 1
+        },
+        {
+            "skill": "Data Governance",
+            "job_postings": 1
+        },
+        {
+            "skill": "Data Ingestion",
+            "job_postings": 1
+        },
+        {
+            "skill": "Data Integrity",
+            "job_postings": 1
+        },
+        {
+            "skill": "Data Management",
+            "job_postings": 1
+        },
+        {
+            "skill": "Data Migration",
+            "job_postings": 1
+        },
+        {
+            "skill": "Data Mining",
+            "job_postings": 1
+        },
+        {
+            "skill": "Data Modeling",
+            "job_postings": 1
+        },
+        {
+            "skill": "Data Quality",
+            "job_postings": 1
+        }
+    ],
+    "Financial Data Analyst": [
+        {
+            "skill": "Excel",
+            "job_postings": 4
+        },
+        {
+            "skill": "SQL",
+            "job_postings": 2
+        },
+        {
+            "skill": "Alteryx",
+            "job_postings": 1
+        },
+        {
+            "skill": "Cognos",
+            "job_postings": 1
+        },
+        {
+            "skill": "Anaplan",
+            "job_postings": 1
+        },
+        {
+            "skill": "Go",
+            "job_postings": 1
+        },
+        {
+            "skill": "Hyperion",
+            "job_postings": 1
+        },
+        {
+            "skill": "Outlook",
+            "job_postings": 1
+        },
+        {
+            "skill": "D365",
+            "job_postings": 1
+        },
+        {
+            "skill": "Pillar",
+            "job_postings": 1
+        },
+        {
+            "skill": "Power BI",
+            "job_postings": 1
+        },
+        {
+            "skill": "Python",
+            "job_postings": 1
+        },
+        {
+            "skill": "PowerPoint",
+            "job_postings": 1
+        },
+        {
+            "skill": "R",
+            "job_postings": 1
+        },
+        {
+            "skill": "TM1",
+            "job_postings": 1
+        }
+    ],
+    "Data Analyst, Production Finance Operations & Innovation": [
+        {
+            "skill": "SQL",
+            "job_postings": 2
+        },
+        {
+            "skill": "Python",
+            "job_postings": 2
+        },
+        {
+            "skill": "Business Intelligence",
+            "job_postings": 1
+        },
+        {
+            "skill": "Data Modeling",
+            "job_postings": 1
+        },
+        {
+            "skill": "Data Analysis",
+            "job_postings": 1
+        },
+        {
+            "skill": "Data Pipelines",
+            "job_postings": 1
+        },
+        {
+            "skill": "Data Quality",
+            "job_postings": 1
+        },
+        {
+            "skill": "Documentation",
+            "job_postings": 1
+        },
+        {
+            "skill": "ETL",
+            "job_postings": 1
+        },
+        {
+            "skill": "Data Visualization",
+            "job_postings": 1
+        },
+        {
+            "skill": "Database Concepts",
+            "job_postings": 1
+        },
+        {
+            "skill": "Google Sheets",
+            "job_postings": 1
+        },
+        {
+            "skill": "Excel",
+            "job_postings": 1
+        },
+        {
+            "skill": "R",
+            "job_postings": 1
+        },
+        {
+            "skill": "Looker",
+            "job_postings": 1
+        }
+    ],
+    "Data Analyst - Construction": [
+        {
+            "skill": "Databricks",
+            "job_postings": 2
+        },
+        {
+            "skill": "Excel",
+            "job_postings": 2
+        },
+        {
+            "skill": "Looker",
+            "job_postings": 2
+        },
+        {
+            "skill": "Power BI",
+            "job_postings": 2
+        },
+        {
+            "skill": "Python",
+            "job_postings": 2
+        },
+        {
+            "skill": "R",
+            "job_postings": 2
+        },
+        {
+            "skill": "Redshift",
+            "job_postings": 2
+        },
+        {
+            "skill": "SQL",
+            "job_postings": 2
+        },
+        {
+            "skill": "Snowflake",
+            "job_postings": 2
+        },
+        {
+            "skill": "Tableau",
+            "job_postings": 2
+        },
+        {
+            "skill": "Statistical Analysis",
+            "job_postings": 1
+        }
+    ],
+    "Data Scientist Intern": [
+        {
+            "skill": "A/B Testing",
+            "job_postings": 1
+        },
+        {
+            "skill": "AWS Sagemaker",
+            "job_postings": 1
+        },
+        {
+            "skill": "Athena",
+            "job_postings": 1
+        },
+        {
+            "skill": "Churn Analysis",
+            "job_postings": 1
+        },
+        {
+            "skill": "Cohort Analysis",
+            "job_postings": 1
+        },
+        {
+            "skill": "Dashboards",
+            "job_postings": 1
+        },
+        {
+            "skill": "Data Analysis",
+            "job_postings": 1
+        },
+        {
+            "skill": "Data Modeling",
+            "job_postings": 1
+        },
+        {
+            "skill": "Data Science Models",
+            "job_postings": 1
+        },
+        {
+            "skill": "Databricks",
+            "job_postings": 1
+        },
+        {
+            "skill": "Documentation",
+            "job_postings": 1
+        },
+        {
+            "skill": "Looker",
+            "job_postings": 1
+        },
+        {
+            "skill": "Machine Learning Models",
+            "job_postings": 1
+        },
+        {
+            "skill": "Metrics",
+            "job_postings": 1
+        },
+        {
+            "skill": "Python",
+            "job_postings": 1
+        }
+    ],
+    "Technical Data Analyst": [
+        {
+            "skill": "SQL",
+            "job_postings": 3
+        },
+        {
+            "skill": "Python",
+            "job_postings": 2
+        },
+        {
+            "skill": "Airflow",
+            "job_postings": 1
+        },
+        {
+            "skill": "Azure DevOps Boards",
+            "job_postings": 1
+        },
+        {
+            "skill": "COBOL",
+            "job_postings": 1
+        },
+        {
+            "skill": "ETL Mapping",
+            "job_postings": 1
+        },
+        {
+            "skill": "Informatica",
+            "job_postings": 1
+        },
+        {
+            "skill": "DB2",
+            "job_postings": 1
+        },
+        {
+            "skill": "DBVisualizer",
+            "job_postings": 1
+        },
+        {
+            "skill": "Mainframe",
+            "job_postings": 1
+        },
+        {
+            "skill": "Java",
+            "job_postings": 1
+        },
+        {
+            "skill": "NoSQL",
+            "job_postings": 1
+        },
+        {
+            "skill": "SSMS",
+            "job_postings": 1
+        },
+        {
+            "skill": "Source to Target Mapping",
+            "job_postings": 1
+        },
+        {
+            "skill": "Tableau",
+            "job_postings": 1
+        }
+    ],
+    "Senior Business and Data Analyst": [
+        {
+            "skill": "SQL",
+            "job_postings": 2
+        },
+        {
+            "skill": "Data Acquisition",
+            "job_postings": 1
+        },
+        {
+            "skill": "Azure",
+            "job_postings": 1
+        },
+        {
+            "skill": "Data Review",
+            "job_postings": 1
+        },
+        {
+            "skill": "Data Visualization",
+            "job_postings": 1
+        },
+        {
+            "skill": "Database Management",
+            "job_postings": 1
+        },
+        {
+            "skill": "Data Warehousing",
+            "job_postings": 1
+        },
+        {
+            "skill": "Descriptive Analytics",
+            "job_postings": 1
+        },
+        {
+            "skill": "Diagnostic Analytics",
+            "job_postings": 1
+        },
+        {
+            "skill": "ETL",
+            "job_postings": 1
+        },
+        {
+            "skill": "Dataflow",
+            "job_postings": 1
+        },
+        {
+            "skill": "Google Cloud",
+            "job_postings": 1
+        },
+        {
+            "skill": "Looker",
+            "job_postings": 1
+        },
+        {
+            "skill": "Power BI",
+            "job_postings": 1
+        },
+        {
+            "skill": "Relational Database Management Systems",
+            "job_postings": 1
+        }
+    ],
+    "Data Analyst - Lead Software Engineer - Remote, US": [
+        {
+            "skill": "Agile",
+            "job_postings": 1
+        },
+        {
+            "skill": "Dashboarding",
+            "job_postings": 1
+        },
+        {
+            "skill": "Data Visualization",
+            "job_postings": 1
+        },
+        {
+            "skill": "Excel",
+            "job_postings": 1
+        },
+        {
+            "skill": "Forecasting",
+            "job_postings": 1
+        },
+        {
+            "skill": "Machine Learning",
+            "job_postings": 1
+        },
+        {
+            "skill": "Microsoft Access",
+            "job_postings": 1
+        },
+        {
+            "skill": "Microsoft Power BI",
+            "job_postings": 1
+        },
+        {
+            "skill": "Microsoft PowerPoint",
+            "job_postings": 1
+        },
+        {
+            "skill": "Microsoft SharePoint",
+            "job_postings": 1
+        },
+        {
+            "skill": "Microsoft Teams",
+            "job_postings": 1
+        },
+        {
+            "skill": "Microsoft Visio",
+            "job_postings": 1
+        },
+        {
+            "skill": "MySQL",
+            "job_postings": 1
+        },
+        {
+            "skill": "Oracle",
+            "job_postings": 1
+        },
+        {
+            "skill": "Python",
+            "job_postings": 1
+        }
+    ],
+    "Senior Data Analyst - Cox Business Planning Strategy & Analytics": [
+        {
+            "skill": "Alteryx",
+            "job_postings": 1
+        },
+        {
+            "skill": "Cloud",
+            "job_postings": 1
+        },
+        {
+            "skill": "Experimental Design",
+            "job_postings": 1
+        },
+        {
+            "skill": "Hadoop",
+            "job_postings": 1
+        },
+        {
+            "skill": "Minerva",
+            "job_postings": 1
+        },
+        {
+            "skill": "PowerPoint",
+            "job_postings": 1
+        },
+        {
+            "skill": "Predictive Modeling",
+            "job_postings": 1
+        },
+        {
+            "skill": "PySpark",
+            "job_postings": 1
+        },
+        {
+            "skill": "Python",
+            "job_postings": 1
+        },
+        {
+            "skill": "R",
+            "job_postings": 1
+        },
+        {
+            "skill": "SQL",
+            "job_postings": 1
+        },
+        {
+            "skill": "Segmentation",
+            "job_postings": 1
+        },
+        {
+            "skill": "Statistical Testing",
+            "job_postings": 1
+        },
+        {
+            "skill": "Tableau",
+            "job_postings": 1
+        },
+        {
+            "skill": "caret",
+            "job_postings": 1
+        }
+    ],
+    "Data Analyst (Stata) | Remote": [
+        {
+            "skill": "Analysis Automation",
+            "job_postings": 1
+        },
+        {
+            "skill": "Causal Inference",
+            "job_postings": 1
+        },
+        {
+            "skill": "Data Cleaning",
+            "job_postings": 1
+        },
+        {
+            "skill": "Data Management",
+            "job_postings": 1
+        },
+        {
+            "skill": "Data Preparation",
+            "job_postings": 1
+        },
+        {
+            "skill": "Data Transformation",
+            "job_postings": 1
+        },
+        {
+            "skill": "Data Validation",
+            "job_postings": 1
+        },
+        {
+            "skill": "Documentation",
+            "job_postings": 1
+        },
+        {
+            "skill": "Econometric Modeling",
+            "job_postings": 1
+        },
+        {
+            "skill": "Ethical Data Handling",
+            "job_postings": 1
+        },
+        {
+            "skill": "Large Dataset Optimization",
+            "job_postings": 1
+        },
+        {
+            "skill": "Panel Data Analysis",
+            "job_postings": 1
+        },
+        {
+            "skill": "Python",
+            "job_postings": 1
+        },
+        {
+            "skill": "R",
+            "job_postings": 1
+        },
+        {
+            "skill": "Reproducible Research",
+            "job_postings": 1
+        }
+    ],
+    "IBP & Master Data Analyst": [
+        {
+            "skill": "Advanced Analytics",
+            "job_postings": 1
+        },
+        {
+            "skill": "Business Intelligence",
+            "job_postings": 1
+        },
+        {
+            "skill": "Data Cleansing",
+            "job_postings": 1
+        },
+        {
+            "skill": "Data Integrity",
+            "job_postings": 1
+        },
+        {
+            "skill": "Data Validation",
+            "job_postings": 1
+        },
+        {
+            "skill": "Excel",
+            "job_postings": 1
+        },
+        {
+            "skill": "Forecasting",
+            "job_postings": 1
+        },
+        {
+            "skill": "IBP",
+            "job_postings": 1
+        },
+        {
+            "skill": "Inventory Management",
+            "job_postings": 1
+        },
+        {
+            "skill": "KPIs",
+            "job_postings": 1
+        },
+        {
+            "skill": "Master Data Management",
+            "job_postings": 1
+        },
+        {
+            "skill": "Outlook",
+            "job_postings": 1
+        },
+        {
+            "skill": "Pivot Tables",
+            "job_postings": 1
+        },
+        {
+            "skill": "PowerPoint",
+            "job_postings": 1
+        },
+        {
+            "skill": "Project Management",
+            "job_postings": 1
+        }
+    ],
+    "Data Analyst \u2013 IRIS.TV": [
+        {
+            "skill": "Ad-tech",
+            "job_postings": 1
+        },
+        {
+            "skill": "Automation",
+            "job_postings": 1
+        },
+        {
+            "skill": "DSP",
+            "job_postings": 1
+        },
+        {
+            "skill": "Dashboard Design",
+            "job_postings": 1
+        },
+        {
+            "skill": "Data Quality Assurance",
+            "job_postings": 1
+        },
+        {
+            "skill": "Data Storytelling",
+            "job_postings": 1
+        },
+        {
+            "skill": "Data Visualization",
+            "job_postings": 1
+        },
+        {
+            "skill": "Documentation",
+            "job_postings": 1
+        },
+        {
+            "skill": "Google BigQuery",
+            "job_postings": 1
+        },
+        {
+            "skill": "KPI Definition",
+            "job_postings": 1
+        },
+        {
+            "skill": "Looker",
+            "job_postings": 1
+        },
+        {
+            "skill": "Python",
+            "job_postings": 1
+        },
+        {
+            "skill": "QuickSuite",
+            "job_postings": 1
+        },
+        {
+            "skill": "R",
+            "job_postings": 1
+        },
+        {
+            "skill": "Reporting",
+            "job_postings": 1
+        }
+    ],
+    "FHS Data Analyst": [
+        {
+            "skill": "Advanced Analytics",
+            "job_postings": 1
+        },
+        {
+            "skill": "Agile",
+            "job_postings": 1
+        },
+        {
+            "skill": "Business Intelligence",
+            "job_postings": 1
+        },
+        {
+            "skill": "Data Analysis",
+            "job_postings": 1
+        },
+        {
+            "skill": "Data Cleaning",
+            "job_postings": 1
+        },
+        {
+            "skill": "Data Governance",
+            "job_postings": 1
+        },
+        {
+            "skill": "Data Modeling",
+            "job_postings": 1
+        },
+        {
+            "skill": "Data Transformation",
+            "job_postings": 1
+        },
+        {
+            "skill": "Data Visualization",
+            "job_postings": 1
+        },
+        {
+            "skill": "Data Wrangling",
+            "job_postings": 1
+        },
+        {
+            "skill": "IT Architecture Design",
+            "job_postings": 1
+        },
+        {
+            "skill": "Looker Studio",
+            "job_postings": 1
+        },
+        {
+            "skill": "Power BI",
+            "job_postings": 1
+        },
+        {
+            "skill": "Python",
+            "job_postings": 1
+        },
+        {
+            "skill": "Qlik Sense",
+            "job_postings": 1
+        }
+    ]
+}

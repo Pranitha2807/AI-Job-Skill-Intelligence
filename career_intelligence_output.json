@@ -1,0 +1,147 @@
+{
+    "role": "Data Analyst",
+    "match_percentage": 34.47,
+    "matched_skills": [
+        "SQL",
+        "Python"
+    ],
+    "skill_gaps": [
+        "Excel",
+        "Tableau",
+        "Power BI",
+        "R",
+        "Data Visualization",
+        "Data Analysis",
+        "Data Modeling",
+        "Looker",
+        "AWS",
+        "ETL",
+        "Snowflake",
+        "Reporting",
+        "SAS"
+    ],
+    "top_demanded_skills": [
+        {
+            "skill": "SQL",
+            "job_postings": 1298
+        },
+        {
+            "skill": "Excel",
+            "job_postings": 825
+        },
+        {
+            "skill": "Python",
+            "job_postings": 760
+        },
+        {
+            "skill": "Tableau",
+            "job_postings": 685
+        },
+        {
+            "skill": "Power BI",
+            "job_postings": 568
+        },
+        {
+            "skill": "R",
+            "job_postings": 395
+        },
+        {
+            "skill": "Data Visualization",
+            "job_postings": 248
+        },
+        {
+            "skill": "Data Analysis",
+            "job_postings": 207
+        },
+        {
+            "skill": "SAS",
+            "job_postings": 169
+        },
+        {
+            "skill": "Data Modeling",
+            "job_postings": 166
+        },
+        {
+            "skill": "Looker",
+            "job_postings": 145
+        },
+        {
+            "skill": "Snowflake",
+            "job_postings": 127
+        },
+        {
+            "skill": "Statistical Analysis",
+            "job_postings": 114
+        },
+        {
+            "skill": "AWS",
+            "job_postings": 111
+        },
+        {
+            "skill": "PowerPoint",
+            "job_postings": 110
+        }
+    ],
+    "top_skill_combinations": [
+        {
+            "skills": "Python + SQL",
+            "job_postings": 649
+        },
+        {
+            "skills": "SQL + Tableau",
+            "job_postings": 579
+        },
+        {
+            "skills": "Excel + SQL",
+            "job_postings": 512
+        },
+        {
+            "skills": "Power BI + SQL",
+            "job_postings": 446
+        },
+        {
+            "skills": "Python + Tableau",
+            "job_postings": 365
+        },
+        {
+            "skills": "Python + R",
+            "job_postings": 354
+        },
+        {
+            "skills": "R + SQL",
+            "job_postings": 328
+        },
+        {
+            "skills": "Power BI + Tableau",
+            "job_postings": 305
+        },
+        {
+            "skills": "Excel + Power BI",
+            "job_postings": 298
+        },
+        {
+            "skills": "Excel + Tableau",
+            "job_postings": 287
+        },
+        {
+            "skills": "Excel + Python",
+            "job_postings": 275
+        },
+        {
+            "skills": "Power BI + Python",
+            "job_postings": 273
+        },
+        {
+            "skills": "R + Tableau",
+            "job_postings": 214
+        },
+        {
+            "skills": "Data Visualization + SQL",
+            "job_postings": 189
+        },
+        {
+            "skills": "Excel + R",
+            "job_postings": 154
+        }
+    ]
+}
